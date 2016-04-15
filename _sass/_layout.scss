@@ -49,7 +49,13 @@
   margin-top: 4em;
   margin-bottom: 0;
   font-weight: 200;
-  font-size: 44px;
+  font-size: 2.75em;
+}
+
+@media all and (max-width: 700px) {
+  .page-header {
+    margin-top: 3em;
+  }
 }
 
 .page-subheader {
@@ -92,9 +98,14 @@
   display: inline-block;
 }
 
-.top-quote-hero {
-  width: 39%;
-}
+.top-quote-hero { width: 39%; }
+
+@media all and (max-width: 800px) {
+  .top-quote {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+  }
 
 .map-desc-text {
   display: inline-block;

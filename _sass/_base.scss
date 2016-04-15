@@ -26,7 +26,11 @@ body {
   padding: 0;
 }
 
-
+@media all and (max-width: 800px) {
+  body {
+    font-size: 14px;
+  }
+}
 
 /**
 * Set `margin-bottom` to maintain vertical rhythm
