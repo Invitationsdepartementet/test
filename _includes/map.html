@@ -1,0 +1,43 @@
+<div id="map"></div>
+<script>
+  var baseUrl = "http://invitationsdepartementet.github.io";
+  var markers = [
+    {lat: 52.511, lng: 13.447},
+    {lat: 52.549, lng: 13.422},
+    {lat: 52.497, lng: 13.396},
+    {lat: 52.517, lng: 13.394}
+  ];
+
+  var map;
+
+  function initMap() {
+    var location = {lat: 60.1282, lng: 18.6435};
+
+    map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 5,
+      center: location,
+      scrollwheel: false,
+      mapTypeControl: false,
+      streetViewControl: false
+    });
+
+    console.log("init");
+
+    for (var i = 0; i < markers.length; i++) {
+      console.log(i);
+      new google.maps.Marker({
+        position: markers[i],
+        map: map,
+        title: 'Hello World!'
+      });
+    }
+
+    var ctaLayer = new google.maps.KmlLayer({
+      url: baseURL + '/js/markers.kml',
+      map: map
+    });
+  }
+</script>
+<script async defer
+src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCQRuIqdTBH7Js5bDFOrRLmA6dOnvi4yzA&callback=initMap">
+</script>
