@@ -1,3 +1,33 @@
+.wrapper {
+  margin: 0 auto;
+  position: relative;
+  max-width: 980px;
+}
+
+.section {
+  padding: 80px 30px;
+}
+
+.section-header {
+  font-size: 36px;
+  font-weight: 300;
+  line-height: 1.3em;
+}
+
+.text-left {
+  width: 50%;
+}
+
+.image-right {
+  float: right;
+  margin-top: 20px;
+  height: auto;
+}
+
+.section-gray {
+  background-color: #f5f5f5;
+}
+
 .social-media-links {
   font-size: 11px;
   text-transform: uppercase;
@@ -64,4 +94,70 @@
 
 .top-quote-hero {
   width: 39%;
+}
+
+.map-desc-text {
+  display: inline-block;
+  width: 49%;
+  box-sizing: border-box;
+  padding-right: 30px;
+  vertical-align: top;
+}
+
+.section-faq {
+  background: #f5f5f5 url('/images/middags-bord.jpg') no-repeat left top/cover;
+  color: #fff;
+}
+
+.column {
+  width: 33%;
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+  padding: 0 20px;
+}
+
+.friend-item {
+  display: inline-block;
+  width: 49%;
+  vertical-align: top;
+  padding-right: 40px;
+  box-sizing: border-box;
+}
+
+.section-english {
+  color: #fff;
+  background: #f5f5f5 url('/images/nytimes.jpg') no-repeat left top/cover;
+}
+
+.section p a {
+    color:  #fd8b43;;
+}
+
+.text-wrapper {
+  max-width: 60%;
+}
+
+.image-left {
+  float: left;
+  margin-right: 40px;
+}
+
+.image-rounded {
+  border-radius: 50%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.site-footer {
+  text-align: center;
+  padding: 40px;
+  color: #b4aaa2;
+  background-color: #332c29;
+}
+
+.qoute-text {
+  font-size: 14px;
 }

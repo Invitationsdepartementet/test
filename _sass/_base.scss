@@ -1,7 +1,6 @@
 /**
 * Reset some basic elements
 */
-body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
@@ -23,6 +22,8 @@ body {
   -o-font-feature-settings: "kern" 1;
   font-feature-settings: "kern" 1;
   font-kerning: normal;
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -30,14 +31,11 @@ body {
 /**
 * Set `margin-bottom` to maintain vertical rhythm
 */
-h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
-
-
 
 /**
 * Images
@@ -46,8 +44,6 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
-
-
 
 /**
 * Figures
@@ -59,8 +55,6 @@ figure > img {
 figcaption {
   font-size: $small-font-size;
 }
-
-
 
 /**
 * Lists
@@ -76,13 +70,13 @@ li {
   }
 }
 
-
-
 /**
 * Headings
 */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  margin: 0 0 $spacing-unit / 2;
+  padding: 0;
 }
 
 
@@ -133,10 +127,6 @@ pre {
   border: 1px solid $grey-color-light;
   border-radius: 3px;
   background-color: #eef;
-}
-
-.wrapper {
-
 }
 
 
