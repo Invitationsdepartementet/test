@@ -1,3 +1,14 @@
+.logo-white {
+  display: block;
+  margin: 10px auto;
+  width: 269px;
+  height: 71px;
+  overflow: hidden;
+  text-indent: -999em;
+  text-align: left;
+  background: transparent url('/images/logga.png') no-repeat left top/contain;
+}
+
 .wrapper {
   margin: 0 auto;
   position: relative;
@@ -32,6 +43,10 @@
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 3px;
+  position: absolute;
+  top: 0;
+  right: 20px;
+  padding-top: inherit;
 }
 
 .social-media-link {
@@ -50,6 +65,18 @@
   margin-bottom: 0;
   font-weight: 200;
   font-size: 2.75em;
+}
+
+.page-header-home {
+  display: block;
+  margin: 2.75em auto 0.75em;
+  width: 723px;
+  height: 258px;
+  max-width: 90%;
+  background: transparent url('/images/slogan.png') no-repeat left top/contain;
+  text-indent: -999em;
+  text-align: left;
+  overflow: hidden;
 }
 
 @media all and (max-width: 700px) {
@@ -79,8 +106,8 @@
   display: inline-block;
   height: 80px;
   width: 80px;
-  background: transparent url('/images/play.png') no-repeat left top/cover;
-  margin-top: 3em;
+  background: transparent url('/images/play.png') no-repeat center center/cover;
+  margin-top: 2em;
   margin-bottom: 4em;
   text-decoration: none;
 }
@@ -100,12 +127,18 @@
 
 .top-quote-hero { width: 39%; }
 
+
 @media all and (max-width: 800px) {
   .top-quote {
     width: 100%;
     margin-bottom: 50px;
   }
-  }
+}
+
+.quote-logo {
+  width: auto;
+  max-height: 30px;
+}
 
 .map-desc-text {
   display: inline-block;
@@ -197,4 +230,10 @@
   right: 0;
   max-width: 85%;
   max-height: 85%;
+}
+
+.google-map-embed {
+  border: 0;
+  margin: 0;
+  padding: 0;
 }
