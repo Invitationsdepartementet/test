@@ -1,6 +1,7 @@
 <div id="map"></div>
 <script>
   var baseUrl = "http://invitationsdepartementet.github.io/";
+  var cacheVersion = "1";
   var map;
 
   function initMap() {
@@ -15,7 +16,7 @@
     });
 
     var ctaLayer = new google.maps.KmlLayer({
-      url: baseUrl + 'js/markers.kml',
+      url: baseUrl + 'js/markers.kml?' + cacheVersion,
       map: map
     });
   }
