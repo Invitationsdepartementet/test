@@ -7,15 +7,14 @@
 			<name>Active chapters</name>
 			<Placemark>
 				<name>Stockholm</name>
-				<description><![CDATA[Anmäl dig här <a href="http://app.invitationsdepartementet.se/signup/stockholm">app.invitationsdepartementet.se/signup/stockholm</a>]]></description>
-				
-				<Point>
-					<coordinates>18.0683899,59.32968699999999,0.0</coordinates>
-				</Point>
+				<description>
+					<![CDATA[<a href="http://app.invitationsdepartementet.se/signup/stockholm">app.invitationsdepartementet.se/signup/stockholm</a>]]>
+				</description>
+				<Point><coordinates>18.0683899,59.32968699999999,0.0</coordinates></Point>
 			</Placemark>
 			<Placemark>
 				<name>Eksjö</name>
-				<description><![CDATA[För middagar kontakta Bia på eksjo@invitationsdepartementet.eu  Facebook: https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Bia på <a href="mailto:eksjo@invitationsdepartementet.eu">eksjo@invitationsdepartementet.eu</a> Facebook: https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts]]></description>
 				
 				<Point>
 					<coordinates>14.972476999999998,57.664871,0.0</coordinates>
