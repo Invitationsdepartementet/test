@@ -17,7 +17,8 @@
 
     var ctaLayer = new google.maps.KmlLayer({
       url: baseUrl + 'js/markers.kml?' + cacheVersion,
-      map: map
+      map: map,
+      preserveViewport: true
     });
   }
 </script>
