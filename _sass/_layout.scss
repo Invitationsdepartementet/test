@@ -91,6 +91,11 @@
   text-align: center;
   background: #5e5855 url('/images/top-banner.jpg') no-repeat center center/cover;
   color: #fff;
+  position: relative;
+}
+
+.section-top .wrapper {
+  min-height: 710px;
 }
 
 .page-header {
@@ -139,6 +144,14 @@
   margin-bottom: 2em;
 }
 
+.section-top-controls {
+  position: absolute;
+  top: 55%;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+
 .button-primary {
   background-color: #fd8b43;
 }
@@ -155,16 +168,18 @@
   width: 80px;
   background: transparent url('/images/play.png') no-repeat center center/cover;
   margin-top: 2em;
-  margin-bottom: 4em;
   text-decoration: none;
 }
 
 .top-quotes {
+  position: absolute;
   width: 100%;
   font-family: Merriweather;
   font-style: italic;
   font-weight: 300;
   font-size: 15px;
+  bottom: 0px;
+  left: 0;
 }
 
 .top-quote {
@@ -172,14 +187,22 @@
   display: inline-block;
 }
 
-.top-quote-hero { width: 39%; }
+.top-quote-hero { width: 37%; }
 
 
 @media all and (max-width: 800px) {
   .top-quote {
+    font-size: 12px;
+  }
+}
+
+@media all and (max-width: 420px) {
+  .top-quote-secondary {
+    display: none;
+  }
+
+  .top-quote-hero {
     width: 100%;
-    margin-bottom: 30px;
-    font-size: 13px;
   }
 }
 
@@ -298,10 +321,6 @@
   padding: 40px;
   color: #b4aaa2;
   background-color: #332c29;
-}
-
-.qoute-text {
-  font-size: 14px;
 }
 
 .video-overlay {
