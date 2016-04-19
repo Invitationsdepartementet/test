@@ -8,37 +8,34 @@
 			<Placemark>
 				<name>Stockholm</name>
 				<description>
-					<![CDATA[<a href="http://app.invitationsdepartementet.se/signup/stockholm">app.invitationsdepartementet.se/signup/stockholm</a>]]>
+					<![CDATA[<a href="http://app.invitationsdepartementet.se/signup/stockholm">Anmäl intressa att gå på middag</a>]]>
 				</description>
 				<Point><coordinates>18.0683899,59.32968699999999,0.0</coordinates></Point>
 			</Placemark>
 			<Placemark>
 				<name>Eksjö</name>
-				<description><![CDATA[För middagar kontakta Bia på <a href="mailto:eksjo@invitationsdepartementet.eu">eksjo@invitationsdepartementet.eu</a> Facebook: https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts]]></description>
-				
+				<description><![CDATA[Maila <a href="mailto:eksjo@invitationsdepartementet.eu">eksjo@invitationsdepartementet.eu</a> eller besök <a href="https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts">på Facebook</a>]]></description>
 				<Point>
 					<coordinates>14.972476999999998,57.664871,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Göteborg</name>
-				<description><![CDATA[För middagar anmäl dig på http://tinyurl.com/kdmp9o5 .                                  För kontakt maila Mia på goteborg@invitationsdepartementet.se Facebook: https://www.facebook.com/invitationsdepartementet.gbg/?fref=ts]]></description>
-				
+				<description><![CDATA[Anmäl dig <a href="http://tinyurl.com/kdmp9o5">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>]]></description>
 				<Point>
 					<coordinates>11.9723511,57.69974450000001,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Jönköping</name>
-				<description><![CDATA[För middagar kontakta Carl på jonkoping@invitationsdepartementet.eu  Facebook: https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts]]></description>
-				
+				<description><![CDATA[För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.eu">jonkoping@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>]]></description>
 				<Point>
 					<coordinates>14.159317,57.77817889999999,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Härnösand</name>
-				<description><![CDATA[För middagar: https://invitharnosand.wordpress.com/          Eller kontakta Monica, Stefan, Kärstin på harnosand@invitationsdepartementet.eu  Facebook: https://www.facebook.com/invitationharnosand/?fref=ts]]></description>
+				<description><![CDATA[För middagar: <a href="https://invitharnosand.wordpress.com/">https://invitharnosand.wordpress.com/</a> eller kontakta Monica, Stefan, Kärstin på <a href="mailto:harnosand@invitationsdepartementet.eu">harnosand@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/invitationharnosand/">https://www.facebook.com/invitationharnosand/</a>]]></description>
 				
 				<Point>
 					<coordinates>17.9406738,62.63156010000001,0.0</coordinates>
@@ -46,7 +43,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Örebro</name>
-				<description><![CDATA[För middagar anmäl: https://app.invitationsdepartementet.se/signup/orebro  Kontakta Fredrik på  orebro@invitationsdepartementet.se Web: http://invitationorebro.blogspot.se/  Facebook: https://www.facebook.com/invitationorebero/?fref=ts  ]]></description>
+				<description><![CDATA[För middagar anmäl: <a href="https://app.invitationsdepartementet.se/signup/orebro">https://app.invitationsdepartementet.se/signup/orebro</a> Facebook: <a href="https://www.facebook.com/invitationorebero/">https://www.facebook.com/invitationorebero/</a>]]></description>
 				
 				<Point>
 					<coordinates>15.2222443,59.27570479999999,0.0</coordinates>
@@ -54,15 +51,14 @@
 			</Placemark>
 			<Placemark>
 				<name>Falun</name>
-				<description><![CDATA[För tillfället inga middagar. Vi söker en ny middagsambassadör!  Mer info på: https://www.facebook.com/Invitationsdepartementet-Falun-316673261863194/timeline/  ]]></description>
-				
+				<description><![CDATA[För tillfället inga middagar. Vi söker en ny middagsambassadör! Mer info på <a href="https://www.facebook.com/Invitationsdepartementet-Falun-316673261863194/timeline/">https://www.facebook.com/Invitationsdepartementet-Falun-316673261863194/</a>  ]]></description>
 				<Point>
 					<coordinates>15.636634800000001,60.60567720000001,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Zürich</name>
-				<description><![CDATA[For dinners contact: gemeinsamznacht@solinetz-zh.ch  http://www.gemeinsamznacht.ch/ Facebook: https://www.facebook.com/gemeinsamznacht/?fref=ts]]></description>
+				<description><![CDATA[For dinners contact: <a href="mailto:gemeinsamznacht@solinetz-zh.ch">gemeinsamznacht@solinetz-zh.ch</a> Facebook: <a href="https://www.facebook.com/gemeinsamznacht/">https://www.facebook.com/gemeinsamznacht/</a>]]></description>
 				
 				<Point>
 					<coordinates>8.5377502,47.3685943,0.0</coordinates>
@@ -70,7 +66,7 @@
 			</Placemark>
 			<Placemark>
 				<name>München</name>
-				<description><![CDATA[For dinners get in touch via: http://abendesser-connection.de]]></description>
+				<description><![CDATA[Get in touch via: <a href="http://abendesser-connection.de">http://abendesser-connection.de</a>]]></description>
 				
 				<Point>
 					<coordinates>11.5802765,48.1331007,0.0</coordinates>
@@ -78,7 +74,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Sollefteå</name>
-				<description><![CDATA[För middagar kontakta Stina stina.naslund@abf.se]]></description>
+				<description><![CDATA[Kontakta Stina <a href="mailto:stina.naslund@abf.se">stina.naslund@abf.se</a>]]></description>
 				
 				<Point>
 					<coordinates>17.2794342,63.1644311,0.0</coordinates>
@@ -86,7 +82,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Berlin</name>
-				<description><![CDATA[For dinners get in touch via: https://www.facebook.com/welcomedinnerberlin or mahlzusammen@gmail.com or https://www.facebook.com/mahlzusammen or gemeinsam.essen.in.berlin@gmail.com ]]></description>
+				<description><![CDATA[For dinners get in touch via: <a href="https://www.facebook.com/welcomedinnerberlin">https://www.facebook.com/welcomedinnerberlin</a> (mahlzusammen@gmail.com) or <a href="https://www.facebook.com/mahlzusammen">https://www.facebook.com/mahlzusammen</a> (gemeinsam.essen.in.berlin@gmail.com)]]></description>
 				
 				<Point>
 					<coordinates>13.3992004,52.51204220000001,0.0</coordinates>
@@ -94,7 +90,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Partille</name>
-				<description><![CDATA[För middagar kontakta Sigbritt.Andreasson@partille.se]]></description>
+				<description><![CDATA[För middagar kontakta <a href="mailto:Sigbritt.Andreasson@partille.se">Sigbritt.Andreasson@partille.se</a>]]></description>
 				
 				<Point>
 					<coordinates>12.1282196,57.7375169,0.0</coordinates>
@@ -102,7 +98,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Ulm</name>
-				<description><![CDATA[For dinners get in touch via  einladung-zum-essen@web.de]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="mailto:einladung-zum-essen@web.de">einladung-zum-essen@web.de</a>]]></description>
 				
 				<Point>
 					<coordinates>9.9961853,48.3954735,0.0</coordinates>
@@ -110,7 +106,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Athens</name>
-				<description><![CDATA[Visit http://options.limited and get in touch through we@options.limited]]></description>
+				<description><![CDATA[Visit <a href="http://options.limited">http://options.limited</a> and get in touch through <a href="mailto:">we@options.limited">we@options.limited</a>]]></description>
 				
 				<Point>
 					<coordinates>23.7266922,37.982363,0.0</coordinates>
@@ -118,7 +114,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Markdorf </name>
-				<description><![CDATA[For dinners get in touch via Komm-essen@mgh-markdorf.de or look for Komm Essen on Facebook]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="mailto:Komm-essen@mgh-markdorf.de">Komm-essen@mgh-markdorf.de</a> or look for Komm Essen on Facebook]]></description>
 				
 				<Point>
 					<coordinates>9.3864441,47.710685600000005,0.0</coordinates>
@@ -126,7 +122,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Dornbirn</name>
-				<description><![CDATA[For dinners get in touch via: tanja.kuen@gmx.net]]></description>
+				<description><![CDATA[For dinners get in touch via: <a href="mailto:tanja.kuen@gmx.net">tanja.kuen@gmx.net/</a>]]></description>
 				
 				<Point>
 					<coordinates>9.746933,47.4132203,0.0</coordinates>
@@ -134,7 +130,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Salzburg</name>
-				<description><![CDATA[For dinners get in touch via:  Beauftragtencenter@stadt-salzburg.at or phone 0043 – (0)662 – 8072 - 2046 or https://www.facebook.com/pages/Miteinander-essen/406331739536796?ref=aymt_homepage_panel]]></description>
+				<description><![CDATA[For dinners get in touch via: <a href="mailto:Beauftragtencenter@stadt-salzburg.at">Beauftragtencenter@stadt-salzburg.at</a> or phone 0043 – (0)662 – 8072 - 2046 or <a href="https://www.facebook.com/pages/Miteinander-essen/406331739536796">visit us on Facebook</a>.]]></description>
 				
 				<Point>
 					<coordinates>13.0531311,47.8085431,0.0</coordinates>
@@ -142,7 +138,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Winsen</name>
-				<description><![CDATA[For dinners get in touch with Markus through internationales.cafe.winsen@t-online.de Website:<br>http://www.st-marien-winsen.de/int-cafe    Facebook:<br>https://www.facebook.com/int.cafe.winsen]]></description>
+				<description><![CDATA[For dinners get in touch with Markus through <a href="mailto:internationales.cafe.winsen@t-online.de">internationales.cafe.winsen@t-online.de</a>. Facebook: <a href="https://www.facebook.com/int.cafe.winsen">https://www.facebook.com/int.cafe.winsen/</a>]]></description>
 				
 				<Point>
 					<coordinates>10.2145386,53.3554695,0.0</coordinates>
@@ -150,7 +146,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Köln</name>
-				<description><![CDATA[For dinners get in touch via http://welcome-dinner.koeln/en Facebook: https://www.facebook.com/welcomedinnerkoeln?fref=ts]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="http://welcome-dinner.koeln/en">http://welcome-dinner.koeln/en</a>. Facebook: <a href="https://www.facebook.com/welcomedinnerkoeln">https://www.facebook.com/welcomedinnerkoeln</a>]]></description>
 				
 				<Point>
 					<coordinates>6.9612122,50.9354982,0.0</coordinates>
@@ -158,7 +154,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Fürth</name>
-				<description><![CDATA[For dinners get in touch with Beatrice at gastgeber@fluechtlinge-fuerth.de]]></description>
+				<description><![CDATA[For dinners get in touch with Beatrice at <a href="mailto:gastgeber@fluechtlinge-fuerth.de">gastgeber@fluechtlinge-fuerth.de/</a>]]></description>
 				
 				<Point>
 					<coordinates>10.9873581,49.4750402,0.0</coordinates>
@@ -166,7 +162,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Hamburg</name>
-				<description><![CDATA[For dinners get in touch via welcomedinnerhh@gmail.com or via Facebook Welcome Dinner Hamburg https://www.facebook.com/welcomedinners?fref=ts]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="mailto:welcomedinnerhh@gmail.com">welcomedinnerhh@gmail.com</a> or via Facebook Welcome Dinner Hamburg <a href="https://www.facebook.com/welcomedinners">facebook.com/welcomedinners</a>]]></description>
 				
 				<Point>
 					<coordinates>10.0057983,53.532962,0.0</coordinates>
@@ -174,7 +170,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Hyltebruk</name>
-				<description><![CDATA[För middagar kontakta anmäl på https://app.invitationsdepartementet.se/signup/hyltebruk För frågor kontakta Pär: hyltebruk@invitationsdepartementet.eu Facebook: https://www.facebook.com/invitationsdepartementethyltebruk?fref=ts]]></description>
+				<description><![CDATA[För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/hyltebruk">app.invitationsdepartementet.se/signup/hyltebruk/<a>. För frågor kontakta Pär: <a href="mailto:hyltebruk@invitationsdepartementet.eu">hyltebruk@invitationsdepartementet.eu</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethyltebruk">facebook.com/invitationsdepartementethyltebruk</a>]]></description>
 				
 				<Point>
 					<coordinates>13.2433319,57.0014849,0.0</coordinates>
@@ -182,7 +178,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Dresden</name>
-				<description><![CDATA[Sign up for dinenrs: http://einladungsamt-dresden.jimdo.com/  Facebook: https://www.facebook.com/einladungsamtdresden?fref=ts or ]]></description>
+				<description><![CDATA[Sign up for dinners at <a href="http://einladungsamt-dresden.jimdo.com/">http://einladungsamt-dresden.jimdo.com/</a>.  Facebook: <a href="https://www.facebook.com/einladungsamtdresden">facebook.com/einladungsamtdresden</a> ]]></description>
 				
 				<Point>
 					<coordinates>13.737262099999953,51.0504088,0.0</coordinates>
@@ -190,15 +186,14 @@
 			</Placemark>
 			<Placemark>
 				<name>Linköping</name>
-				<description><![CDATA[För middagar kontakta Sandra middagsklubben.linkoping@redcross.se]]></description>
-				
+				<description><![CDATA[För middagar kontakta Sandra på middagsklubben <a href="mailto:linkoping@redcross.se">linkoping@redcross.se</a>]]></description>
 				<Point>
 					<coordinates>15.621372699999938,58.41080700000001,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Finspång</name>
-				<description><![CDATA[Inga middagar ordnas just nu. Vi letar efter någon som vill driva Invitationsdepartementet i Finspång. Intresserad? Maila: malcolm@invitationsdepartementet.se]]></description>
+				<description><![CDATA[Inga middagar ordnas just nu. Vi letar efter någon som vill driva Invitationsdepartementet i Finspång. Intresserad? Maila <a href="mailto:malcolm@invitationsdepartementet.se">malcolm@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>15.773595,58.70748840000001,0.0</coordinates>
@@ -206,7 +201,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Vienna</name>
-				<description><![CDATA[For dinners get in touch via: tischgespraeche@gmail.com and find out more on tumblr: http://tischgespraeche.tumblr.com/ Facebook: https://www.facebook.com/groups/1387214531604447/ and instagram: tischgespraeche]]></description>
+				<description><![CDATA[For dinners get in touch via: <a href="tischgespraeche@gmail.com">tischgespraeche@gmail.com</a>. Facebook: <a href="https://www.facebook.com/groups/1387214531604447/">facebook.com/groups/1387214531604447/</a>]]></description>
 				
 				<Point>
 					<coordinates>16.377182,48.2237577,0.0</coordinates>
@@ -214,7 +209,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Potsdam</name>
-				<description><![CDATA[For dinners get in touch via http://www.einladungsinstitut-potsdam.de/ And by email: kontakt@einladungsinstitut-potsdam.de]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="http://www.einladungsinstitut-potsdam.de/">http://www.einladungsinstitut-potsdam.de/</a>or by email at <a href="mailto:kontakt@einladungsinstitut-potsdam.de">kontakt@einladungsinstitut-potsdam.de</a>]]></description>
 				
 				<Point>
 					<coordinates>13.0620575,52.3994863,0.0</coordinates>
@@ -222,7 +217,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Norrköping</name>
-				<description><![CDATA[För middagar anmäl dig på https://invitationsdepartementet.wordpress.com/ eller https://www.facebook.com/idnkpg? Frågor? Kontakta norrkoping@invitationsdepartementet.eu]]></description>
+				<description><![CDATA[För middagar anmäl dig på <a href="https://invitationsdepartementet.wordpress.com/">https://invitationsdepartementet.wordpress.com/</a>. Läs mer på <a href="https://www.facebook.com/idnkpg">https://www.facebook.com/idnkpg</a> eller kontakta <a href="mailto:norrkoping@invitationsdepartementet.eu">norrkoping@invitationsdepartementet.eu</a>]]></description>
 				
 				<Point>
 					<coordinates>16.192420999999968,58.587745,0.0</coordinates>
@@ -230,7 +225,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Umeå</name>
-				<description><![CDATA[För middagar kontakta Inger  umea@invitationsdepartementet.se Facebook: https://www.facebook.com/invitationsdepartementetumea/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Inger  <a href="mailto:umea@invitationsdepartementet.se">umea@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetumea/">https://www.facebook.com/invitationsdepartementetumea/</a>]]></description>
 				
 				<Point>
 					<coordinates>20.263035400000035,63.8258471,0.0</coordinates>
@@ -238,7 +233,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Uddevalla</name>
-				<description><![CDATA[För middagar kontakta Helene på kurviga69@gmail.com]]></description>
+				<description><![CDATA[För middagar kontakta Helene på <a href="mailto:kurviga69@gmail.com">kurviga69@gmail.com</a>]]></description>
 				
 				<Point>
 					<coordinates>11.935649000000012,58.3498003,0.0</coordinates>
@@ -246,7 +241,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Bonn</name>
-				<description><![CDATA[For dinners visit http://ichladedichein.org/  Facebook: https://www.facebook.com/ichladedicheinbonn/?fref=ts]]></description>
+				<description><![CDATA[For dinners visit <a href="http://ichladedichein.org/">http://ichladedichein.org/</a>. Facebook: <a href="https://www.facebook.com/ichladedicheinbonn/">facebook.com/ichladedicheinbonn/</a>]]></description>
 				
 				<Point>
 					<coordinates>7.098206800000071,50.73743,0.0</coordinates>
@@ -254,7 +249,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Jena</name>
-				<description><![CDATA[For dinners get in touch via: http://welcomedinnerjena.wix.com/home          Contact: <br>welcomedinnerjena@gmail.com <br>Facebook: www.facebook.com/welcomedinnerjena]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="http://welcomedinnerjena.wix.com/home">http://welcomedinnerjena.wix.com/home</a><br>Contact: <a href="mailto:welcomedinnerjena@gmail.com">welcomedinnerjena@gmail.com</a> <br>Facebook: <a href="www.facebook.com/welcomedinnerjena">facebook.com/welcomedinnerjena</a>]]></description>
 				
 				<Point>
 					<coordinates>11.58923720000007,50.927054,0.0</coordinates>
@@ -262,7 +257,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Stuttgart</name>
-				<description><![CDATA[For dinners get in touch via http://welcome-dinner-stuttgart.de/ Facebook: http://www.facebook.com/WelcomeDinnerStuttgart]]></description>
+				<description><![CDATA[For dinners get in touch via <a href="http://welcome-dinner-stuttgart.de/">http://welcome-dinner-stuttgart.de/</a>. Facebook: <a href="http://www.facebook.com/WelcomeDinnerStuttgart">facebook.com/WelcomeDinnerStuttgart</a>]]></description>
 				
 				<Point>
 					<coordinates>9.182932100000016,48.7758459,0.0</coordinates>
@@ -270,7 +265,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Edewecht</name>
-				<description><![CDATA[For dinners sign up at: www.welcome-dinner-edewecht.de<br>Facebook: https://www.facebook.com/welcomedinneredewecht]]></description>
+				<description><![CDATA[For dinners sign up at <a href="www.welcome-dinner-edewecht.de">www.welcome-dinner-edewecht.de</a>. <br>Facebook: <a href="https://www.facebook.com/welcomedinneredewecht">https://www.facebook.com/welcomedinneredewecht</a>]]></description>
 				
 				<Point>
 					<coordinates>7.983006199999978,53.1261691,0.0</coordinates>
@@ -278,7 +273,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Kristianstad</name>
-				<description><![CDATA[Kristianstad söker en ny ambassadör som vill ta över efter Olof. Hör av dig till malcolm@invitationsdepartementet.se om du vill veta mer! ]]></description>
+				<description><![CDATA[Kristianstad söker en ny ambassadör som vill ta över efter Olof. Hör av dig till <a href="mailto:malcolm@invitationsdepartementet.se">malcolm@invitationsdepartementet.se</a> om du vill veta mer!]]></description>
 				
 				<Point>
 					<coordinates>14.156677800000011,56.0293936,0.0</coordinates>
@@ -286,15 +281,14 @@
 			</Placemark>
 			<Placemark>
 				<name>Bruxelles</name>
-				<description><![CDATA[For dinners sign up:  http://dinewithus.strikingly.com/                            Facebook: https://www.facebook.com/DineWithUsBe/?fref=ts]]></description>
-				
+				<description><![CDATA[For dinners sign up:  http://dinewithus.strikingly.com/. <br>Facebook: <a href="https://www.facebook.com/DineWithUsBe/">facebook.com/DineWithUsBe/</a>]]></description>
 				<Point>
 					<coordinates>4.351710300000036,50.8503396,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Ghent</name>
-				<description><![CDATA[For dinners sign up at:    http://dinewithus.strikingly.com/                            Facebook: https://www.facebook.com/DineWithUsBe/?fref=ts]]></description>
+				<description><![CDATA[For dinners sign up at <a href="http://dinewithus.strikingly.com/">http://dinewithus.strikingly.com/</a>.<br> Facebook: <a href="https://www.facebook.com/DineWithUsBe/">facebook.com/DineWithUsBe/</a>]]></description>
 				
 				<Point>
 					<coordinates>3.717424299999948,51.0543422,0.0</coordinates>
@@ -302,7 +296,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Mainz</name>
-				<description><![CDATA[For dinners get in touch via: welcomedinnermainz@gmail.com Website: http://welcomedinnermainz.blogspot.de/ Facebook: https://www.facebook.com/welcomedinnermainz]]></description>
+				<description><![CDATA[For dinners get in touch via: <a href="welcomedinnermainz@gmail.com">welcomedinnermainz@gmail.com</a>. Facebook: <a href="https://www.facebook.com/welcomedinnermainz">https://www.facebook.com/welcomedinnermainz</a>]]></description>
 				
 				<Point>
 					<coordinates>8.247252600000024,49.9928617,0.0</coordinates>
@@ -310,7 +304,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Västerås</name>
-				<description><![CDATA[För middagar kontakta Maria på  invitationsdepartementet021@gmail.com  Facebook: https://www.facebook.com/Invitationsdepartementet-V%C3%A4ster%C3%A5s-891480500886138/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Maria på  <a href="mailto:invitationsdepartementet021@gmail.com">invitationsdepartementet021@gmail.com</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-V%C3%A4ster%C3%A5s-891480500886138/">facebook.com/Invitationsdepartementet-V%C3%A4ster%C3%A5s-891480500886138/</a>]]></description>
 				
 				<Point>
 					<coordinates>16.544809100000066,59.60990049999998,0.0</coordinates>
@@ -318,7 +312,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Nynäshamn</name>
-				<description><![CDATA[För middagar kontakta Mikaela på  mikaela@vazquez.se.]]></description>
+				<description><![CDATA[För middagar kontakta Mikaela på <a href="mailto:mikaela@vazquez.se">mikaela@vazquez.se</a>.]]></description>
 				
 				<Point>
 					<coordinates>17.946528899999976,58.90292600000001,0.0</coordinates>
@@ -326,7 +320,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Skivarp</name>
-				<description><![CDATA[För middagar kontakta Johan på info@ueb.nu]]></description>
+				<description><![CDATA[För middagar kontakta Johan på <a href="info@ueb.nu">info@ueb.nu</a>]]></description>
 				
 				<Point>
 					<coordinates>13.570973699999968,55.4227644,0.0</coordinates>
@@ -334,7 +328,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Lysekil</name>
-				<description><![CDATA[För middagar kontakta Cheyenne på cheyenne@radiosmd.se  Facebook: https://www.facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Cheyenne på <a href="mailto:cheyenne@radiosmd.se">cheyenne@radiosmd.se</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/">facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/</a>]]></description>
 				
 				<Point>
 					<coordinates>11.435558000000015,58.27557299999999,0.0</coordinates>
@@ -342,7 +336,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Malmö</name>
-				<description><![CDATA[För middagar anmäl på: http://app.invitationsdepartementet.se/signup/malmo För frågor maila Daniel & Co.:  malmo@invitationsdepartementet.se  Facebook: https://www.facebook.com/invitationsdepartementetmalmo/?fref=ts]]></description>
+				<description><![CDATA[För middagar anmäl på: <a href="http://app.invitationsdepartementet.se/signup/malmo">app.invitationsdepartementet.se/signup/malmo</a>. För frågor maila Daniel & Co.:  <a href="mailto:malmo@invitationsdepartementet.se">malmo@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetmalmo/">https://www.facebook.com/invitationsdepartementetmalmo/</a>]]></description>
 				
 				<Point>
 					<coordinates>13.003822000000014,55.604981,0.0</coordinates>
@@ -350,7 +344,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Höör</name>
-				<description><![CDATA[För middagar kontakta  Lisa på hoor@invitationsdepartementet.se  Facebook: https://www.facebook.com/invitationsdepartementethoor/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta  Lisa på <a href="mailto:hoor@invitationsdepartementet.se">hoor@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethoor/">https://www.facebook.com/invitationsdepartementethoor/</a>]]></description>
 				
 				<Point>
 					<coordinates>13.539590399999952,55.9348588,0.0</coordinates>
@@ -358,7 +352,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Lund</name>
-				<description><![CDATA[För middagar anmäl på: https://app.invitationsdepartementet.se/signup/lund   För kontakt maila Johanna på lund@invitationsdepartementet.se  Facebook: https://www.facebook.com/invitationsdepartementetlund/?fref=ts]]></description>
+				<description><![CDATA[För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/lund">app.invitationsdepartementet.se/signup/lund</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetlund/">facebook.com/invitationsdepartementetlund/</a>]]></description>
 				
 				<Point>
 					<coordinates>13.191007300000024,55.7046601,0.0</coordinates>
@@ -366,7 +360,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Düsseldorf</name>
-				<description><![CDATA[For dinners visit:    hi@welcome-dinner-duesseldorf.de  Facebook: www.facebook.com/welcomedinnerduesseldorf]]></description>
+				<description><![CDATA[For dinners email <a href="mailto:hi@welcome-dinner-duesseldorf.de">hi@welcome-dinner-duesseldorf.de</a>. Facebook: <a href="www.facebook.com/welcomedinnerduesseldorf">facebook.com/welcomedinnerduesseldorf</a>]]></description>
 				
 				<Point>
 					<coordinates>6.773455600000034,51.2277411,0.0</coordinates>
@@ -374,7 +368,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Tierp</name>
-				<description><![CDATA[För middagar kontakta Isabelle på tierp@invitationsdepartementet.se  Facebook: https://www.facebook.com/invitationsdepartementetTierp/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Isabelle på <a href="mailto:tierp@invitationsdepartementet.se">tierp@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetTierp/">facebook.com/invitationsdepartementetTierp/</a>]]></description>
 				
 				<Point>
 					<coordinates>17.516906000000063,60.3458956,0.0</coordinates>
@@ -382,7 +376,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Uppsala</name>
-				<description><![CDATA[För middagar kontakta Magnus och Caroline på  uppsala@invitationsdepartementet.se  Facebook: https://www.facebook.com/iduppsala/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Magnus och Caroline på  <a href="mailto:uppsala@invitationsdepartementet.se">uppsala@invitationsdepartementet.se</a>.<br> Facebook: <a href="https://www.facebook.com/iduppsala/">facebook.com/iduppsala/</a>]]></description>
 				
 				<Point>
 					<coordinates>17.638926699999956,59.85856380000002,0.0</coordinates>
@@ -390,7 +384,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Mariehamn</name>
-				<description><![CDATA[För middagar anmäl dig här: https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form Kontakt Siv och Effie på info@kompassen.ax ]]></description>
+				<description><![CDATA[För middagar anmäl dig på <a href="https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form">https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form</a>. Kontakt Siv och Effie på <a href="mailto:info@kompassen.ax">info@kompassen.ax</a>]]></description>
 				
 				<Point>
 					<coordinates>19.934833900000058,60.097094500000004,0.0</coordinates>
@@ -422,7 +416,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Ängelholm</name>
-				<description><![CDATA[För middagar anmäl dig till Linda här: http://www.engelholm.se/Omsorg-hjalp/Ny-i-Sverige/Sa-har-kan-du-hjalpa/Bjud-en-likasinnad-pa-middag/]]></description>
+				<description><![CDATA[För middagar anmäl dig till Linda här: <a href="http://www.engelholm.se/Omsorg-hjalp/Ny-i-Sverige/Sa-har-kan-du-hjalpa/Bjud-en-likasinnad-pa-middag/">engelholm.se/Omsorg-hjalp/Ny-i-Sverige/Sa-har-kan-du-hjalpa/Bjud-en-likasinnad-pa-middag/</a>]]></description>
 				
 				<Point>
 					<coordinates>12.863880999999992,56.245748,0.0</coordinates>
@@ -430,7 +424,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Buchs</name>
-				<description><![CDATA[Dinners happening! WelcomeDinner@werdenberg.ch]]></description>
+				<description><![CDATA[Dinners happening! <a href="mailto:WelcomeDinner@werdenberg.ch">WelcomeDinner@werdenberg.ch</a>]]></description>
 				
 				<Point>
 					<coordinates>9.470859399999995,47.16554029999999,0.0</coordinates>
@@ -438,7 +432,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Hannover</name>
-				<description><![CDATA[Dinners happening! http://www.welcome-dinner-hannover.de/  Facebook: www.facebook.com/welcome.dinner.hannover]]></description>
+				<description><![CDATA[Dinners happening! Visit <a href="http://www.welcome-dinner-hannover.de/">welcome-dinner-hannover.de/</a>. Facebook: <a href="www.facebook.com/welcome.dinner.hannover">facebook.com/welcome.dinner.hannover</a>]]></description>
 				
 				<Point>
 					<coordinates>9.732010400000036,52.3758916,0.0</coordinates>
@@ -446,7 +440,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Jokkmokk</name>
-				<description><![CDATA[För middagar kontakta Elina: jokkmokk@invitationsdepartementet.se]]></description>
+				<description><![CDATA[För middagar kontakta Elina: <a href="mailto:jokkmokk@invitationsdepartementet.se">jokkmokk@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>19.822920599999975,66.60696089999999,0.0</coordinates>
@@ -454,7 +448,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Karlstad</name>
-				<description><![CDATA[För middagar kontakta Helena: karlstad@invitationsdepartementet.se  Facebook: https://www.facebook.com/ikk2015/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Helena på <a href="mailto:karlstad@invitationsdepartementet.se">karlstad@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/ikk2015/">https://www.facebook.com/ikk2015/</a>]]></description>
 				
 				<Point>
 					<coordinates>13.511497700000064,59.4021806,0.0</coordinates>
@@ -462,7 +456,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Oslo</name>
-				<description><![CDATA[Dinners happening! Sign up: https://docs.google.com/forms/d/1JPy11ouXMA2iY8WHHF_woULEy81Hzl4p-fo91e8nFB8/viewform Facebook: https://www.facebook.com/Kom-inn-L%C3%A6r-norsk-rundt-middagsbordet-1626833260885681/?fref=ts]]></description>
+				<description><![CDATA[Dinners happening! Sign up at <a href="https://docs.google.com/forms/d/1JPy11ouXMA2iY8WHHF_woULEy81Hzl4p-fo91e8nFB8/viewform">https://docs.google.com/forms/d/1JPy11ouXMA2iY8WHHF_woULEy81Hzl4p-fo91e8nFB8/viewform</a>.<br> Facebook: <a href="https://www.facebook.com/Kom-inn-L%C3%A6r-norsk-rundt-middagsbordet-1626833260885681/">facebook.com/Kom-inn-L%C3%A6r-norsk-rundt-middagsbordet-1626833260885681/</a>]]></description>
 				
 				<Point>
 					<coordinates>10.752245399999993,59.913868799999996,0.0</coordinates>
@@ -470,7 +464,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Kiel</name>
-				<description><![CDATA[Dinners www.welcomedinner-Kiel.de or via <br>http://facebook.com/welcomedinnerkiel]]></description>
+				<description><![CDATA[Read more at <a href="www.welcomedinner-Kiel.de">www.welcomedinner-Kiel.de</a> or at <a href="http://facebook.com/welcomedinnerkiel">http://facebook.com/welcomedinnerkiel</a>]]></description>
 				
 				<Point>
 					<coordinates>10.122765200000003,54.3232927,0.0</coordinates>
@@ -478,7 +472,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Borås</name>
-				<description><![CDATA[För middagar anmäl på: https://app.invitationsdepartementet.se/signup/boras  För frågor kontakta Ellen och Linda på boras@invitationsdepartementet.se  Facebook: https://www.facebook.com/invitationsdepartementetboras/?fref=ts]]></description>
+				<description><![CDATA[För middagar anmäl på <a href="https://app.invitationsdepartementet.se/signup/boras">app.invitationsdepartementet.se/signup/boras</a>. För frågor kontakta Ellen och Linda på <a href="mailto:boras@invitationsdepartementet.se">boras@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetboras/">facebook.com/invitationsdepartementetboras/</a>]]></description>
 				
 				<Point>
 					<coordinates>12.939818999999945,57.72103500000001,0.0</coordinates>
@@ -486,7 +480,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Kirchheim (T)</name>
-				<description><![CDATA[Get in touch trough tueroeffner@fjbm-bruderhausdiakonie.de]]></description>
+				<description><![CDATA[Get in touch trough <a href="mailto:tueroeffner@fjbm-bruderhausdiakonie.de">tueroeffner@fjbm-bruderhausdiakonie.de<a>]]></description>
 				
 				<Point>
 					<coordinates>9.443753300000026,48.6444579,0.0</coordinates>
@@ -494,7 +488,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Basel</name>
-				<description><![CDATA[For dinners:  http://www.k5kurszentrum.ch/index.php/news-lesen/items/gast-schafft-freund-58.html]]></description>
+				<description><![CDATA[Read more at <a href="http://www.k5kurszentrum.ch/index.php/news-lesen/items/gast-schafft-freund-58.html">k5kurszentrum.ch/</a>]]></description>
 				
 				<Point>
 					<coordinates>7.588576099999954,47.55959860000001,0.0</coordinates>
@@ -502,7 +496,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Värnamo</name>
-				<description><![CDATA[För middagar kontakta Dan på: varnamo@invitationsdepartementet.se]]></description>
+				<description><![CDATA[För middagar kontakta Dan på <a href="mailto:varnamo@invitationsdepartementet.se">varnamo@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>14.047821399999975,57.1831605,0.0</coordinates>
@@ -510,7 +504,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Skellefteå</name>
-				<description><![CDATA[För middagar anmäl på https://app.invitationsdepartementet.se/signup/skelleftea För frågor kontakta Malin på: skelleftea@invitationsdepartementet.se  Facebook: https://www.facebook.com/groups/middagskelleftea/?fref=ts]]></description>
+				<description><![CDATA[För middagar anmäl på <a href="https://app.invitationsdepartementet.se/signup/skelleftea">app.invitationsdepartementet.se/signup/skelleftea</a>. För frågor kontakta Malin på: <a href="mailto:skelleftea@invitationsdepartementet.se">skelleftea@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/groups/middagskelleftea/">facebook.com/groups/middagskelleftea/</a>]]></description>
 				
 				<Point>
 					<coordinates>20.950917000000004,64.750244,0.0</coordinates>
@@ -518,15 +512,14 @@
 			</Placemark>
 			<Placemark>
 				<name>Luleå</name>
-				<description><![CDATA[För middagar anmäl dig här: https://app.invitationsdepartementet.se/signup/lulea För frågor kontakta Felicia och John på: lulea@invitationsdepartementet.se  Facebook: https://www.facebook.com/idlulea/?fref=ts]]></description>
-				
+				<description><![CDATA[För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/lulea">invitationsdepartementet.se/signup/lulea</a>. För frågor kontakta Felicia och John på <a href="mailto:lulea@invitationsdepartementet.se">lulea@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/idlulea/">https://www.facebook.com/idlulea/</a>]]></description>
 				<Point>
 					<coordinates>22.156702600000017,65.584819,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
 				<name>Halle</name>
-				<description><![CDATA[Dinners happening! Get in touch through https://www.facebook.com/KochHalle-cook-and-eat-together-486697998204429/ or via e-mail kochaktionen.in.halle@gmail.com]]></description>
+				<description><![CDATA[Dinners happening! Get in touch through <a href="https://www.facebook.com/KochHalle-cook-and-eat-together-486697998204429/">facebook.com/KochHalle-cook-and-eat-together-486697998204429/</a> or via e-mail at <a href="mailto:kochaktionen.in.halle@gmail.com">kochaktionen.in.halle@gmail.com</a>]]></description>
 				
 				<Point>
 					<coordinates>11.968802900000014,51.4969802,0.0</coordinates>
@@ -534,7 +527,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Gävle</name>
-				<description><![CDATA[För middagar kontakta Lisa på gavle@invitationsdepartementet.se]]></description>
+				<description><![CDATA[För middagar kontakta Lisa på <a href="mailto:gavle@invitationsdepartementet.se">gavle@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>17.141272599999983,60.6748796,0.0</coordinates>
@@ -542,7 +535,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Munkfors</name>
-				<description><![CDATA[För middagar kontakta Samina och Sara på munkfors@invitationsdepartementet.se  Facebook: https://www.facebook.com/munkforsinvitationsdepartment/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Samina och Sara på <a href="mailto:munkfors@invitationsdepartementet.se">munkfors@invitationsdepartementet.se</a>.<br> Facebook: <a href="https://www.facebook.com/munkforsinvitationsdepartment/">facebook.com/munkforsinvitationsdepartment/</a>]]></description>
 				
 				<Point>
 					<coordinates>13.531723,59.8354573,0.0</coordinates>
@@ -550,7 +543,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Kalmar</name>
-				<description><![CDATA[För middagar maila Björn på kalmar@invitationsdepartementet.se]]></description>
+				<description><![CDATA[För middagar maila Björn på <a href="mailto:kalmar@invitationsdepartementet.se">kalmar@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>16.35677899999996,56.6634447,0.0</coordinates>
@@ -558,7 +551,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Ljusnarsberg</name>
-				<description><![CDATA[För middagar maila Karin på ljusnarsberg@invitationsdepartementet.se]]></description>
+				<description><![CDATA[För middagar maila Karin på <a href="mailto:ljusnarsberg@invitationsdepartementet.se">ljusnarsberg@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>14.87777940000001,59.97529340000001,0.0</coordinates>
@@ -566,7 +559,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Varberg</name>
-				<description><![CDATA[För middagar kontakta Charlotte på varberg@invitationsdepartementet.se  Facebook: https://www.facebook.com/invitationsdepartementetvarberg/?fref=ts]]></description>
+				<description><![CDATA[För middagar kontakta Charlotte på <a href="mailto:varberg@invitationsdepartementet.se">varberg@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetvarberg/">facebook.com/invitationsdepartementetvarberg/</a>]]></description>
 				
 				<Point>
 					<coordinates>12.252090700000053,57.10711800000001,0.0</coordinates>
@@ -574,7 +567,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Mölndal</name>
-				<description><![CDATA[För middagar kontakta Erica på molndal@invitationsdepartementet.se]]></description>
+				<description><![CDATA[För middagar kontakta Erica på <a href="mailto:molndal@invitationsdepartementet.se">molndal@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>12.016666999999984,57.65,0.0</coordinates>
@@ -582,7 +575,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Kramfors</name>
-				<description><![CDATA[För middagar kontakta Stefan på kramfors@invitationsdepartementet.se          Eller anmäl dig på https://app.invitationsdepartementet.se/signup/kramfors]]></description>
+				<description><![CDATA[Anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/kramfors">app.invitationsdepartementet.se/signup/kramfors</a> eller kontakta Stefan på <a href="mailto:kramfors@invitationsdepartementet.se">kramfors@invitationsdepartementet.se</a>]]></description>
 				
 				<Point>
 					<coordinates>17.777390200000013,62.93207249999999,0.0</coordinates>
@@ -590,8 +583,7 @@
 			</Placemark>
 			<Placemark>
 				<name>Östersund</name>
-				<description><![CDATA[För middagar kontakta Jonna på ostersund@invitationsdepartementet.se]]></description>
-				
+				<description><![CDATA[För middagar kontakta Jonna på <a href="mailto:ostersund@invitationsdepartementet.se">ostersund@invitationsdepartementet.se</a>]]></description>
 				<Point>
 					<coordinates>14.63606809999999,63.1766832,0.0</coordinates>
 				</Point>
