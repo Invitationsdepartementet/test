@@ -8,13 +8,13 @@
 			<Placemark>
 				<name>Stockholm</name>
 				<description>
-					<![CDATA[<a href="http://app.invitationsdepartementet.se/signup/stockholm">Anmäl intressa att gå på middag</a>]]>
+					<![CDATA[<a href="http://app.invitationsdepartementet.se/signup/stockholm">Klicka här för att gå på middag i Stockholm</a>]]>
 				</description>
 				<Point><coordinates>18.0683899,59.32968699999999,0.0</coordinates></Point>
 			</Placemark>
 			<Placemark>
 				<name>Eksjö</name>
-				<description><![CDATA[Maila <a href="mailto:eksjo@invitationsdepartementet.eu">eksjo@invitationsdepartementet.eu</a> eller besök <a href="https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts">på Facebook</a>]]></description>
+				<description><![CDATA[Maila <a href="mailto:eksjo@invitationsdepartementet.eu">eksjo@invitationsdepartementet.eu</a> eller <a href="https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts">besök oss på Facebook</a>]]></description>
 				<Point>
 					<coordinates>14.972476999999998,57.664871,0.0</coordinates>
 				</Point>
