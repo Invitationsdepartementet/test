@@ -29,10 +29,27 @@
   width: 50%;
 }
 
+@media all and (max-width: 600px) {
+  .text-left {
+    width: 100%;
+    display: block;
+  }
+}
+
 .image-right {
   float: right;
   margin-top: 20px;
   height: auto;
+  max-width: 40%;
+}
+
+@media all and (max-width: 600px) {
+  .image-right {
+    margin: auto;
+    float: none;
+    display: block;
+    margin-bottom: 30px;
+  }
 }
 
 .section-gray {
@@ -72,7 +89,7 @@
 .section-top {
   padding: 20px 20px 40px;
   text-align: center;
-  background: #5e5855 url('/images/top-banner.jpg') no-repeat left top/cover;
+  background: #5e5855 url('/images/top-banner.jpg') no-repeat center center/cover;
   color: #fff;
 }
 
@@ -81,6 +98,12 @@
   margin-bottom: 0;
   font-weight: 200;
   font-size: 2.75em;
+}
+
+@media all and (max-width: 700px) {
+  .page-header {
+    margin-top: 3em;
+  }
 }
 
 .page-header-home {
@@ -95,9 +118,17 @@
   overflow: hidden;
 }
 
-@media all and (max-width: 700px) {
-  .page-header {
+.page-header-image-home {
+  max-width: 90%;
+  height: auto;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+@media all and (max-width: 600px) {
+  .page-header-image-home {
     margin-top: 3em;
+    margin-bottom: 2em;
   }
 }
 
@@ -147,7 +178,8 @@
 @media all and (max-width: 800px) {
   .top-quote {
     width: 100%;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
+    font-size: 13px;
   }
 }
 
@@ -164,17 +196,39 @@
   vertical-align: top;
 }
 
+.map-desc-text + .map-desc-text {
+  padding-left: 30px;
+  padding-right: 0;
+}
+
+@media all and (max-width: 800px) {
+  .map-desc-text,
+  .map-desc-text + .map-desc-text
+   {
+    display: block;
+    width: 100%;
+    padding: 0;
+  }
+}
+
 .section-faq {
   background: #f5f5f5 url('/images/middags-bord.jpg') no-repeat left top/cover;
   color: #fff;
 }
 
 .column {
-  width: 33%;
+  width: 32%;
   display: inline-block;
   vertical-align: top;
   box-sizing: border-box;
   padding: 0 20px;
+}
+
+@media all and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
 }
 
 .friend-item {
@@ -183,6 +237,18 @@
   vertical-align: top;
   padding-right: 40px;
   box-sizing: border-box;
+}
+
+@media all and (max-width: 600px) {
+  .friend-item {
+    width: 100%;
+    display: block;
+    margin-bottom: 40px;
+  }
+}
+
+.friend-item-image + h3 {
+  margin-top: 40px;
 }
 
 .section-english {
@@ -198,9 +264,25 @@
   max-width: 60%;
 }
 
+@media all and (max-width: 600px) {
+  .text-wrapper {
+    max-width: 100%;
+  }
+}
+
 .image-left {
   float: left;
   margin-right: 40px;
+  max-width: 50%;
+  height: auto;
+}
+
+@media all and (max-width: 600px) {
+  .image-left {
+    margin: auto;
+    float: none;
+    display: block;
+  }
 }
 
 .image-rounded {
