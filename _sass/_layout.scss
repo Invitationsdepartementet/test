@@ -317,6 +317,14 @@
 .section-english {
   color: #fff;
   background: #f5f5f5 url('/images/nytimes.jpg') no-repeat left top/cover;
+
+  a {
+    text-decoration: underline;
+  }
+
+  .section-header-bold {
+    color: #34221a;
+  }
 }
 
 .text-wrapper {
