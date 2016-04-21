@@ -14,8 +14,10 @@
       {% for cityhash in site.data.cities %}
         {% assign cityData = cityhash[1] %}
         {% assign cityName = cityhash[0] %}
-        <option value="{{ cityName }}" data-url="{{ city.url }}">{{ cityName }}</option>
+        <option value="{{ cityName }}" data-url="{{ cityData.url }}">{{ cityName }}</option>
       {% endfor %}
     </optgroup>
   </select>
 </div>
+
+<a href="{{ site.data.cities['Stockholm'].url }}" class="js-go-to-dinner button button-primary">Jag vill äta middag</a>
