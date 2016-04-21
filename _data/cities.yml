@@ -1,8 +1,20 @@
-Stockholm:
-  url: http://app.invitationsdepartementet.se/signup/stockholm
-  desc: '<a href="http://app.invitationsdepartementet.se/signup/stockholm">Klicka här för att gå på middag i Stockholm</a>'
-  long: 18.0683899
-  lat: 59.329687
+Athens:
+  url: http://options.limited
+  desc: 'Visit <a href="http://options.limited">http://options.limited</a> and get in touch through <a href="mailto:">we@options.limited">we@options.limited</a>'
+  long: 23.7266922
+  lat: 37.982363
+
+Berlin:
+  url: https://www.facebook.com/welcomedinnerberlin
+  desc: 'For dinners get in touch via: <a href="https://www.facebook.com/welcomedinnerberlin">https://www.facebook.com/welcomedinnerberlin</a> (mahlzusammen@gmail.com) or <a href="https://www.facebook.com/mahlzusammen">https://www.facebook.com/mahlzusammen</a> (gemeinsam.essen.in.berlin@gmail.com)'
+  long: 13.3992004
+  lat: 52.51204220000001
+
+Dornbirn:
+  url: mailto:tanja.kuen@gmx.net
+  desc: 'For dinners get in touch via: <a href="mailto:tanja.kuen@gmx.net">tanja.kuen@gmx.net/</a>'
+  long: 9.746933
+  lat: 47.4132203
 
 Eksjö:
   url: mailto:eksjo@invitationsdepartementet.eu
@@ -15,97 +27,43 @@ Göteborg:
   desc: 'Anmäl dig <a href="http://tinyurl.com/kdmp9o5">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>'
   long: 11.9723511
   lat: 57.69974450000001
-      
-Jönköping:
-  url: mailto:jonkoping@invitationsdepartementet.eu
-  desc: 'För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.eu">jonkoping@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>'
-  long: 14.159317
-  lat: 57.77817889999999
-      
+
 Härnösand:
   url: 'https://docs.google.com/forms/d/1_la-NlAGrvrpyZIl4zrUeSO8hihkj8atNZaj-8QNtu0/viewform?c=0&w=1'
   desc: 'För middagar: <a href="https://invitharnosand.wordpress.com/">https://invitharnosand.wordpress.com/</a> eller kontakta Monica, Stefan, Kärstin på <a href="mailto:harnosand@invitationsdepartementet.eu">harnosand@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/invitationharnosand/">https://www.facebook.com/invitationharnosand/</a>'
   long: 17.9406738
   lat: 62.63156010000001
-
-Örebro:
-  url: https://app.invitationsdepartementet.se/signup/orebro
-  desc: 'För middagar anmäl: <a href="https://app.invitationsdepartementet.se/signup/orebro">https://app.invitationsdepartementet.se/signup/orebro</a> Facebook: <a href="https://www.facebook.com/invitationorebero/">https://www.facebook.com/invitationorebero/</a>'        
-  long: 15.2222443
-  lat: 59.27570479999999        
-
-Zürich:
-  url: mailto:gemeinsamznacht@solinetz-zh.ch
-  desc: 'For dinners contact: <a href="mailto:gemeinsamznacht@solinetz-zh.ch">gemeinsamznacht@solinetz-zh.ch</a> Facebook: <a href="https://www.facebook.com/gemeinsamznacht/">https://www.facebook.com/gemeinsamznacht/</a>'
-  long: 8.5377502
-  lat: 47.3685943
+  
+Jönköping:
+  url: mailto:jonkoping@invitationsdepartementet.eu
+  desc: 'För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.eu">jonkoping@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>'
+  long: 14.159317
+  lat: 57.77817889999999
 
 München:
   url: http://abendesser-connection.de
   desc: 'Get in touch via: <a href="http://abendesser-connection.de">http://abendesser-connection.de</a>'
   long: 11.5802765
   lat: 48.1331007
-      
-Sollefteå:
-  url: mailto:stina.naslund@abf.se
-  desc: 'Kontakta Stina <a href="mailto:stina.naslund@abf.se">stina.naslund@abf.se</a>'
-  long: 17.2794342
-  lat: 63.1644311
-
-Berlin:
-  url: https://www.facebook.com/welcomedinnerberlin
-  desc: 'For dinners get in touch via: <a href="https://www.facebook.com/welcomedinnerberlin">https://www.facebook.com/welcomedinnerberlin</a> (mahlzusammen@gmail.com) or <a href="https://www.facebook.com/mahlzusammen">https://www.facebook.com/mahlzusammen</a> (gemeinsam.essen.in.berlin@gmail.com)'
-  long: 13.3992004
-  lat: 52.51204220000001
 
 Partille:
   url: mailto:Sigbritt.Andreasson@partille.se
-  desc: 'För middagar kontakta <a href="mailto:Sigbritt.Andreasson@partille.se">Sigbritt.Andreasson@partille.se</a>'        
+  desc: 'För middagar kontakta <a href="mailto:Sigbritt.Andreasson@partille.se">Sigbritt.Andreasson@partille.se</a>'  
   long: 12.1282196
   lat: 57.7375169
-
-Ulm:
-  url: mailto:einladung-zum-essen@web.de
-  desc: 'For dinners get in touch via <a href="mailto:einladung-zum-essen@web.de">einladung-zum-essen@web.de</a>'        
-  long: 9.9961853
-  lat: 48.3954735
-
-Athens:
-  url: http://options.limited
-  desc: 'Visit <a href="http://options.limited">http://options.limited</a> and get in touch through <a href="mailto:">we@options.limited">we@options.limited</a>'
-  long: 23.7266922
-  lat: 37.982363
 
 Markdorf:
   url: mailto:Komm-essen@mgh-markdorf.de
   desc: 'For dinners get in touch via <a href="mailto:Komm-essen@mgh-markdorf.de">Komm-essen@mgh-markdorf.de</a> or look for Komm Essen on Facebook'
   long: 9.3864441
-  lat: 47.710685600000005        
-      
-Dornbirn:
-  url: mailto:tanja.kuen@gmx.net
-  desc: 'For dinners get in touch via: <a href="mailto:tanja.kuen@gmx.net">tanja.kuen@gmx.net/</a>'
-  long: 9.746933
-  lat: 47.4132203
-
-Salzburg:
-  url: https://www.facebook.com/Miteinander-essen-406331739536796/
-  desc: 'For dinners get in touch via: <a href="mailto:Beauftragtencenter@stadt-salzburg.at">Beauftragtencenter@stadt-salzburg.at</a> or phone 0043 – (0)662 – 8072 - 2046 or <a href="https://www.facebook.com/pages/Miteinander-essen/406331739536796">visit us on Facebook</a>.'
-  long: 13.0531311
-  lat: 47.8085431
-
-Winsen:
-  url: http://www.st-marien-winsen.de/int-cafe
-  desc: 'For dinners get in touch with Markus through <a href="mailto:internationales.cafe.winsen@t-online.de">internationales.cafe.winsen@t-online.de</a>. Facebook: <a href="https://www.facebook.com/int.cafe.winsen">https://www.facebook.com/int.cafe.winsen/</a>'        
-  long: 10.2145386
-  lat: 53.3554695
+  lat: 47.710685600000005  
 
 Köln:
   url: http://welcome-dinner.koeln/de
   desc: 'For dinners get in touch via <a href="http://welcome-dinner.koeln/en">http://welcome-dinner.koeln/en</a>. Facebook: <a href="https://www.facebook.com/welcomedinnerkoeln">https://www.facebook.com/welcomedinnerkoeln</a>'
   long: 6.9612122
   lat: 50.9354982
-        
+  
       
 Fürth:
   url: mailto:gastgeber@fluechtlinge-fuerth.de
@@ -136,12 +94,6 @@ Linköping:
   desc: 'För middagar kontakta Sandra på middagsklubben <a href="mailto:linkoping@redcross.se">linkoping@redcross.se</a>'
   long: 15.621372699999938
   lat: 58.41080700000001
-
-Vienna:
-  url: https://www.facebook.com/groups/1387214531604447/
-  desc: 'For dinners get in touch via: <a href="tischgespraeche@gmail.com">tischgespraeche@gmail.com</a>. Facebook: <a href="https://www.facebook.com/groups/1387214531604447/">facebook.com/groups/1387214531604447/</a>'
-  long: 16.377182
-  lat: 48.2237577
 
 Potsdam:
   url: http://www.einladungsinstitut-potsdam.de
@@ -211,10 +163,10 @@ Mainz:
 
 Västerås:
   url: https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/
-  desc: 'För middagar kontakta Maria på <a href="mailto:invitationsdepartementet021@gmail.com">invitationsdepartementet021@gmail.com</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/">https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/</a>'        
+  desc: 'För middagar kontakta Maria på <a href="mailto:invitationsdepartementet021@gmail.com">invitationsdepartementet021@gmail.com</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/">https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/</a>'  
   long: 16.544809100000066
   lat: 59.60990049999998
-        
+  
       
 Nynäshamn:
   url: mailto:mikaela@vazquez.se
@@ -400,12 +352,6 @@ Ljusnarsberg:
   long: 14.87777940000001
   lat: 59.97529340000001
 
-Varberg:
-  url: mailto:varberg@invitationsdepartementet.se
-  desc: 'För middagar kontakta Charlotte på <a href="mailto:varberg@invitationsdepartementet.se">varberg@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetvarberg/">facebook.com/invitationsdepartementetvarberg/</a>'
-  long: 12.252090700000053
-  lat: 57.10711800000001
-
 Mölndal:
   url: mailto:molndal@invitationsdepartementet.se
   desc: 'För middagar kontakta Erica på <a href="mailto:molndal@invitationsdepartementet.se">molndal@invitationsdepartementet.se</a>'
@@ -417,6 +363,60 @@ Kramfors:
   desc: 'Anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/kramfors">app.invitationsdepartementet.se/signup/kramfors</a> eller kontakta Stefan på <a href="mailto:kramfors@invitationsdepartementet.se">kramfors@invitationsdepartementet.se</a>'
   long: 17.777390200000013
   lat: 62.93207249999999
+
+Salzburg:
+  url: https://www.facebook.com/Miteinander-essen-406331739536796/
+  desc: 'For dinners get in touch via: <a href="mailto:Beauftragtencenter@stadt-salzburg.at">Beauftragtencenter@stadt-salzburg.at</a> or phone 0043 – (0)662 – 8072 - 2046 or <a href="https://www.facebook.com/pages/Miteinander-essen/406331739536796">visit us on Facebook</a>.'
+  long: 13.0531311
+  lat: 47.8085431
+
+Sollefteå:
+  url: mailto:stina.naslund@abf.se
+  desc: 'Kontakta Stina <a href="mailto:stina.naslund@abf.se">stina.naslund@abf.se</a>'
+  long: 17.2794342
+  lat: 63.1644311
+
+Stockholm:
+  url: http://app.invitationsdepartementet.se/signup/stockholm
+  desc: '<a href="http://app.invitationsdepartementet.se/signup/stockholm">Klicka här för att gå på middag i Stockholm</a>'
+  long: 18.0683899
+  lat: 59.329687
+
+Ulm:
+  url: mailto:einladung-zum-essen@web.de
+  desc: 'For dinners get in touch via <a href="mailto:einladung-zum-essen@web.de">einladung-zum-essen@web.de</a>'  
+  long: 9.9961853
+  lat: 48.3954735
+
+Varberg:
+  url: mailto:varberg@invitationsdepartementet.se
+  desc: 'För middagar kontakta Charlotte på <a href="mailto:varberg@invitationsdepartementet.se">varberg@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetvarberg/">facebook.com/invitationsdepartementetvarberg/</a>'
+  long: 12.252090700000053
+  lat: 57.10711800000001
+
+Vienna:
+  url: https://www.facebook.com/groups/1387214531604447/
+  desc: 'For dinners get in touch via: <a href="tischgespraeche@gmail.com">tischgespraeche@gmail.com</a>. Facebook: <a href="https://www.facebook.com/groups/1387214531604447/">facebook.com/groups/1387214531604447/</a>'
+  long: 16.377182
+  lat: 48.2237577
+
+Winsen:
+  url: http://www.st-marien-winsen.de/int-cafe
+  desc: 'For dinners get in touch with Markus through <a href="mailto:internationales.cafe.winsen@t-online.de">internationales.cafe.winsen@t-online.de</a>. Facebook: <a href="https://www.facebook.com/int.cafe.winsen">https://www.facebook.com/int.cafe.winsen/</a>'  
+  long: 10.2145386
+  lat: 53.3554695
+
+Zürich:
+  url: mailto:gemeinsamznacht@solinetz-zh.ch
+  desc: 'For dinners contact: <a href="mailto:gemeinsamznacht@solinetz-zh.ch">gemeinsamznacht@solinetz-zh.ch</a> Facebook: <a href="https://www.facebook.com/gemeinsamznacht/">https://www.facebook.com/gemeinsamznacht/</a>'
+  long: 8.5377502
+  lat: 47.3685943
+
+Örebro:
+  url: https://app.invitationsdepartementet.se/signup/orebro
+  desc: 'För middagar anmäl: <a href="https://app.invitationsdepartementet.se/signup/orebro">https://app.invitationsdepartementet.se/signup/orebro</a> Facebook: <a href="https://www.facebook.com/invitationorebero/">https://www.facebook.com/invitationorebero/</a>'  
+  long: 15.2222443
+  lat: 59.27570479999999
 
 Östersund:
   url: mailto:ostersund@invitationsdepartementet.se
