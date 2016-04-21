@@ -179,7 +179,7 @@
 
 .button-primary,
 .button-primary:visited {
-  background-color: #fd8b43;
+  background-color: $brand-color;
   color: #fff;
 }
 
@@ -316,7 +316,7 @@
 
 .section-article {
   a {
-    color: #fd8b43;
+    color: $brand-color;
   }
 }
 
