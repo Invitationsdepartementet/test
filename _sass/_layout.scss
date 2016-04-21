@@ -197,6 +197,7 @@
   appearance: none;
   padding: 16px 0;
   font-size: inherit;
+  cursor: pointer;
   background: #fff url(/images/arrow-down.png) no-repeat right center/8px 6px;
 
   &::-ms-expand { /* For IE 11, hide arrow */

@@ -1,20 +1,22 @@
 <div class="destination-wrapper">
   <label for="destination" class="destination-label">Jag bor i</label>
 
-  <select id="destination" class="destination-dropdown">
+  <select id="destination" class="js-destination-dropdown destination-dropdown">
     <optgroup label="Vanliga val">
-      <option>Stockholm</option>
       <option>Göteborg</option>
+      <option>Stockholm</option>
       <option>Malmö</option>
       <option>Uppsala</option>
       <option>Västerås</option>
       <option>Örebro</option>
     </optgroup>
-    <optgroup label="Alla orter">
+    <optgroup class="js-cities-group" label="Alla orter">
       {% for cityhash in site.data.cities %}
         {% assign city = cityhash[1] %}
-        <option>{{ cityhash[0] }}</option>
+        <option value="{{ cityhash[0] }}">{{ cityhash[0] }}</option>
       {% endfor %}
     </optgroup>
   </select>
+
+  <div class="js-dump"></div>
 </div>

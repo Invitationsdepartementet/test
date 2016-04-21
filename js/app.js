@@ -11,5 +11,23 @@ $(function() {
     $(".js-vimeo-iframe").remove();
     $(this).removeClass("video-overlay-active");
   });
+
+  $.getJSON("http://ip-api.com/json/?callback=?", function(data) {
+      selectCityWithName(data.city);
+  });
+
+  function selectCityWithName(cityName) {
+    // Find a city with an identical name in the option group, and select it
+    $(".js-cities-group option[value='" + cityName +"']").prop('selected', true);
+    updateDestinationButton();
+  }
+
+  $(".js-destination-dropdown").change(function(e) {
+    updateDestinationButton();
+  });
+
+  function updateDestinationButton() {
+    alert("Dropdown changed");
+  }
   
 });
