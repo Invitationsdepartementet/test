@@ -13,10 +13,8 @@
     <optgroup class="js-cities-group" label="Alla orter">
       {% for cityhash in site.data.cities %}
         {% assign city = cityhash[1] %}
-        <option value="{{ cityhash[0] }}">{{ cityhash[0] }}</option>
+        <option value="{{ cityhash[0] }}" data-url="{{ city.url }}">{{ cityhash[0] }}</option>
       {% endfor %}
     </optgroup>
   </select>
-
-  <div class="js-dump"></div>
 </div>

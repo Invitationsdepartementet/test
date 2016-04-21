@@ -1,5 +1,7 @@
 $(function() {
 
+  $destinationButton = $(".js-go-to-dinner");
+
   $(".js-button-play-movie").click(function(e) {
     e.preventDefault();
     $(".js-video-overlay")
@@ -19,15 +21,17 @@ $(function() {
   function selectCityWithName(cityName) {
     // Find a city with an identical name in the option group, and select it
     $(".js-cities-group option[value='" + cityName +"']").prop('selected', true);
-    updateDestinationButton();
+    updateDestinationButtonFromSelectedOption();
   }
 
   $(".js-destination-dropdown").change(function(e) {
-    updateDestinationButton();
+    updateDestinationButtonFromSelectedOption();
   });
 
-  function updateDestinationButton() {
-    alert("Dropdown changed");
+  // Update CTA button to go to page for chosen destination
+  function updateDestinationButtonFromSelectedOption() {
+    var selected = $(".js-destination-dropdown option:selected");
+    $destinationButton.attr("href", selected.attr("data-url"));
   }
   
 });
