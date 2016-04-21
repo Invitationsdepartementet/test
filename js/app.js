@@ -15,12 +15,25 @@ $(function() {
   });
 
   $.getJSON("http://ip-api.com/json/?callback=?", function(data) {
-      selectCityWithName(data.city);
+      selectCityWithName(data.city, data.regionName);
   });
 
-  function selectCityWithName(cityName) {
+  function selectCityWithName(cityName, cityRegion) {
     // Find a city with an identical name in the option group, and select it
-    $(".js-cities-group option[value='" + cityName +"']").prop('selected', true);
+    var selection = $(".js-cities-group option[value='" + cityName +"']");
+
+    // If no city is available with the same name, use the region as a name (could be .e.g Stockholm)
+    if (!selection.length && cityRegion) {
+      selection = $(".js-cities-group option[value='" + cityRegion +"']");
+    }
+    
+    // If no selection, abort
+    if (!selection.length) {
+      return;
+    }
+
+    // Set it to selected
+    selection.prop('selected', true);
     updateDestinationButtonFromSelectedOption();
   }
 
@@ -33,5 +46,5 @@ $(function() {
     var selected = $(".js-destination-dropdown option:selected");
     $destinationButton.attr("href", selected.attr("data-url"));
   }
-  
+
 });
