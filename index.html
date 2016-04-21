@@ -17,7 +17,10 @@ layout: default
       <img src="/images/slogan.png" alt="Äta mat på kvällen och prata svenska" class="page-header-image-home" height="258" width="700">
 
       <div class="section-top-controls">
-        <div><a href="#karta" class="button button-primary">Jag vill äta middag</a></div>
+        <div>
+          {% include destination-dropdown.html %}
+          <a href="#karta" class="button button-primary">Jag vill äta middag</a>
+        </div>
 
         <a href="{{ site.vimeourl }}" class="button-play-movie js-button-play-movie"></a>
       </div>

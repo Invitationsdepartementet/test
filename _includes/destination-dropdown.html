@@ -1,0 +1,20 @@
+<div class="destination-wrapper">
+  <label for="destination" class="destination-label">Jag bor i</label>
+
+  <select id="destination" class="destination-dropdown">
+    <optgroup label="Vanliga val">
+      <option>Stockholm</option>
+      <option>Göteborg</option>
+      <option>Malmö</option>
+      <option>Uppsala</option>
+      <option>Västerås</option>
+      <option>Örebro</option>
+    </optgroup>
+    <optgroup label="Alla orter">
+      {% for cityhash in site.data.cities %}
+        {% assign city = cityhash[1] %}
+        <option>{{ cityhash[0] }}</option>
+      {% endfor %}
+    </optgroup>
+  </select>
+</div>

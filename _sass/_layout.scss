@@ -177,10 +177,40 @@
   right: 0;
 }
 
-.button-primary,
-.button-primary:visited {
+.destination-wrapper {
+  background-color: #fff;
+  border-radius: 3px;
+  display: inline-block;
+  color: #000;
+  padding: 0 20px;
+  position: relative;
+}
+
+.destination-label {
+  color: #666;
+}
+
+.destination-dropdown {
+  border: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  padding: 16px 0;
+  font-size: inherit;
+  background: #fff url(/images/arrow-down.png) no-repeat right center/8px 6px;
+
+  &::-ms-expand { /* For IE 11, hide arrow */
+    display: none;
+  }
+}
+
+.button-primary {
   background-color: $brand-color;
   color: #fff;
+
+  &:hover {
+    background-color: darken($brand-color, 3%);
+  }
 }
 
 .button {
