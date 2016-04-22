@@ -48,7 +48,7 @@ Bruxelles:
   country: BE
 
 Buchs:
-  url: WelcomeDinner@werdenberg.ch 
+  url: mailto:WelcomeDinner@werdenberg.ch 
   desc: 'Dinners happening! <a href="mailto:WelcomeDinner@werdenberg.ch">WelcomeDinner@werdenberg.ch</a>'
   long: 9.470859399999995
   lat: 47.16554029999999
@@ -418,14 +418,14 @@ Ulm:
   country: DE
 
 Umeå:
-  url: umea@invitationsdepartementet.se
+  url: mailto:umea@invitationsdepartementet.se
   desc: 'För middagar kontakta Inger <a href="mailto:umea@invitationsdepartementet.se">umea@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetumea/">https://www.facebook.com/invitationsdepartementetumea/</a>'
   long: 20.263035400000035
   lat: 63.8258471
   country: SE
 
 Uppsala:
-  url: uppsala@invitationsdepartementet.se
+  url: mailto:uppsala@invitationsdepartementet.se
   desc: 'För middagar kontakta Magnus och Caroline på  <a href="mailto:uppsala@invitationsdepartementet.se">uppsala@invitationsdepartementet.se</a>.<br> Facebook: <a href="https://www.facebook.com/iduppsala/">facebook.com/iduppsala/</a>'
   long: 17.638926699999956
   lat: 59.85856380000002
