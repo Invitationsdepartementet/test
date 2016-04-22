@@ -6,8 +6,9 @@
       {% for cityhash in site.data.cities %}
         {% assign cityData = cityhash[1] %}
         {% assign cityName = cityhash[0] %}
+        {% assign defaultCity = "Stockholm" %}
         {% if cityData.country == "SE" %}
-          <option value="{{ cityName }}" data-url="{{ cityData.url }}">{{ cityName }}</option>
+          <option value="{{ cityName }}" data-url="{{ cityData.url }}" {% if cityName == defaultCity %}selected{% endif %}>{{ cityName }}</option>
         {% endif %}
       {% endfor %}
     </optgroup>
