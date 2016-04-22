@@ -2,7 +2,7 @@
   <label for="destination" class="destination-label">Jag bor i</label>
 
   <select id="destination" class="js-destination-dropdown destination-dropdown">
-    <optgroup class="js-cities-group" label="Alla orter">
+    <optgroup class="js-cities-group" label="Aktiva städer">
       {% for cityhash in site.data.cities %}
         {% assign cityData = cityhash[1] %}
         {% assign cityName = cityhash[0] %}
