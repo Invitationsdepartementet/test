@@ -15,10 +15,10 @@ $(function() {
   });
 
   $.getJSON("http://ip-api.com/json/?callback=?", function(data) {
-      selectCityWithName(data.city, data.regionName);
+      selectCityWithNameOrRegion(data.city, data.regionName);
   });
 
-  function selectCityWithName(cityName, cityRegion) {
+  function selectCityWithNameOrRegion(cityName, cityRegion) {
     // Find a city with an identical name in the option group, and select it
     var selection = $(".js-cities-group option[value='" + cityName +"']");
 
@@ -28,9 +28,7 @@ $(function() {
     }
     
     // If no selection, abort
-    if (!selection.length) {
-      return;
-    }
+    if (!selection.length) { return; }
 
     // Set it to selected
     selection.prop('selected', true);
