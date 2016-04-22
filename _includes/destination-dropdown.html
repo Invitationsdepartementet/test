@@ -2,19 +2,13 @@
   <label for="destination" class="destination-label">Jag bor i</label>
 
   <select id="destination" class="js-destination-dropdown destination-dropdown">
-    <optgroup label="Vanliga val">
-      <option>Göteborg</option>
-      <option>Stockholm</option>
-      <option>Malmö</option>
-      <option>Uppsala</option>
-      <option>Västerås</option>
-      <option>Örebro</option>
-    </optgroup>
     <optgroup class="js-cities-group" label="Alla orter">
       {% for cityhash in site.data.cities %}
         {% assign cityData = cityhash[1] %}
         {% assign cityName = cityhash[0] %}
-        <option value="{{ cityName }}" data-url="{{ cityData.url }}">{{ cityName }}</option>
+        {% if cityData.country == "SE" %}
+          <option value="{{ cityName }}" data-url="{{ cityData.url }}">{{ cityName }}</option>
+        {% endif %}
       {% endfor %}
     </optgroup>
   </select>
