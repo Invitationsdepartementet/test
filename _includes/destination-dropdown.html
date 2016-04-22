@@ -3,14 +3,16 @@
 
   <select id="destination" class="js-destination-dropdown destination-dropdown">
     <optgroup class="js-cities-group" label="Aktiva städer">
-      {% for cityhash in site.data.cities %}
+      {% for cityhash in site.data.cities %}{% if cityhash[1].country == "SE" %}
         {% assign cityData = cityhash[1] %}
         {% assign cityName = cityhash[0] %}
         {% assign defaultCity = "Stockholm" %}
-        {% if cityData.country == "SE" %}
-          <option value="{{ cityName }}" data-url="{{ cityData.url }}" {% if cityName == defaultCity %}selected{% endif %}>{{ cityName }}</option>
+        {% assign cityURL = cityData.url %}
+        {% if cityURL contains "mailto" %}
+          {% assign cityURL = cityURL | append: "?subject=Middag i " | append: cityName %}
         {% endif %}
-      {% endfor %}
+          <option value="{{ cityName }}" data-url="{{ cityURL }}" {% if cityName == defaultCity %}selected{% endif %}>{{ cityName }}</option>
+      {% endif %}{% endfor %}
     </optgroup>
   </select>
 </div>
