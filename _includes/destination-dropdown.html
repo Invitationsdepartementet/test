@@ -1,0 +1,20 @@
+<div class="destination-wrapper">
+  <label for="destination" class="destination-label">Jag bor i</label>
+
+  <select id="destination" class="js-destination-dropdown destination-dropdown">
+    <optgroup class="js-cities-group" label="Aktiva städer">
+      {% for cityhash in site.data.cities %}{% if cityhash[1].country == "SE" %}
+        {% assign cityData = cityhash[1] %}
+        {% assign cityName = cityhash[0] %}
+        {% assign defaultCity = "Stockholm" %}
+        {% assign cityURL = cityData.url %}
+        {% if cityURL contains "mailto" %}
+          {% assign cityURL = cityURL | append: "?subject=Middag i " | append: cityName %}
+        {% endif %}
+          <option value="{{ cityName }}" data-url="{{ cityURL }}" {% if cityName == defaultCity %}selected{% endif %}>{{ cityName }}</option>
+      {% endif %}{% endfor %}
+    </optgroup>
+  </select>
+</div>
+
+<a href="{{ site.data.cities['Stockholm'].url }}" class="js-go-to-dinner button button-primary">Jag vill äta middag</a>
