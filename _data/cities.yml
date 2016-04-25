@@ -445,6 +445,13 @@ Vienna:
   lat: 48.2237577
   country: AT
 
+Vänersborg:
+  url: mailto:vanersborg@invitationsdepartementet.se
+  desc: "För middagar Johanna på vanersborg@invitationsdepartementet.se"
+  long: 12.3248
+  lat: 58.3797
+  country: SE
+
 Värnamo:
   url: mailto:varnamo@invitationsdepartementet.se
   desc: 'För middagar kontakta Dan på <a href="mailto:varnamo@invitationsdepartementet.se">varnamo@invitationsdepartementet.se</a>'
