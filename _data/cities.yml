@@ -111,8 +111,8 @@ Gävle:
   country: SE
 
 Göteborg:
-  url: http://tinyurl.com/kdmp9o5
-  desc: 'Anmäl dig <a href="http://tinyurl.com/kdmp9o5">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>'
+  url: https://app.invitationsdepartementet.se/signup/goteborg
+  desc: 'Anmäl dig <a href="https://app.invitationsdepartementet.se/signup/goteborg">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>'
   long: 11.9723511
   lat: 57.69974450000001
   country: SE
@@ -444,6 +444,13 @@ Vienna:
   long: 16.377182
   lat: 48.2237577
   country: AT
+
+Vänersborg:
+  url: mailto:vanersborg@invitationsdepartementet.se
+  desc: "För middagar Johanna på vanersborg@invitationsdepartementet.se"
+  long: 12.3248
+  lat: 58.3797
+  country: SE
 
 Värnamo:
   url: mailto:varnamo@invitationsdepartementet.se
