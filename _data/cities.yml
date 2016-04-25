@@ -111,8 +111,8 @@ Gävle:
   country: SE
 
 Göteborg:
-  url: http://tinyurl.com/kdmp9o5
-  desc: 'Anmäl dig <a href="http://tinyurl.com/kdmp9o5">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>'
+  url: https://app.invitationsdepartementet.se/signup/goteborg
+  desc: 'Anmäl dig <a href="https://app.invitationsdepartementet.se/signup/goteborg">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>'
   long: 11.9723511
   lat: 57.69974450000001
   country: SE
