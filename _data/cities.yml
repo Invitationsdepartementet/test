@@ -446,8 +446,8 @@ Vienna:
   country: AT
 
 Vänersborg:
-  url: mailto:vanersborg@invitationsdepartementet.se
-  desc: "För middagar Johanna på vanersborg@invitationsdepartementet.se"
+  url: http://app.invitationsdepartementet.se/signup/vanersborg
+  desc: 'Gå till <a href="http://app.invitationsdepartementet.se/signup/vanersborg">http://app.invitationsdepartementet.se/signup/vanersborg</a> för middagar.'
   long: 12.3248
   lat: 58.3797
   country: SE
