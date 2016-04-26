@@ -43,6 +43,11 @@ $(function() {
     $(".js-stad2").text(data.cityName);
   });
 
+  $.getJSON('http://ipinfo.io', function(data){
+    $(".js-region3").text(data.region);
+    $(".js-stad3").text(data.city);
+  });
+
 });
 
 </script>
@@ -60,6 +65,9 @@ $(function() {
         <li class="js-region2"></li>
         <li class="js-stad2"></li>
       </ul>
+      <h3>Grupp 3</h3>
+        <li class="js-region3"></li>
+        <li class="js-stad3"></li> 
     </div>
     <div class="column column-right">
       <h2>Närmsta ambassad</h2>
