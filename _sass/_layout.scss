@@ -25,6 +25,12 @@
   line-height: 1.3em;
 }
 
+@media all and (max-width: 600px) {
+  .section-header {
+      font-size: 28px;
+  }
+}
+
 .section-header-bold {
   color: #472a74;
   background-color: #fff;
