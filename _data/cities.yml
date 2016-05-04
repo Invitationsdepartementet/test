@@ -89,6 +89,13 @@ Eksjö:
   lat: 57.664871
   country: SE
 
+Frankfurt:
+  url: https://www.facebook.com/welcomedinnerfrankfurt
+  desc: 'Visit <a href="https://www.facebook.com/welcomedinnerfrankfurt">facebook.com/welcomedinnerfrankfurt</a> to book a dinner.'
+  long: 8.6821
+  lat: 50.1109
+  country: DE
+
 Fürth:
   url: mailto:gastgeber@fluechtlinge-fuerth.de
   desc: 'For dinners get in touch with Beatrice at <a href="mailto:gastgeber@fluechtlinge-fuerth.de">gastgeber@fluechtlinge-fuerth.de/</a>'
