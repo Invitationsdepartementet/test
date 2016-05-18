@@ -488,8 +488,8 @@ Zürich:
   country: CH
 
 Ängelholm:
-  url: http://www.engelholm.se/Omsorg-hjalp/Ny-i-Sverige/Sa-har-kan-du-hjalpa/Bjud-en-likasinnad-pa-middag/
-  desc: 'För middagar anmäl dig till Linda här: <a href="http://www.engelholm.se/Omsorg-hjalp/Ny-i-Sverige/Sa-har-kan-du-hjalpa/Bjud-en-likasinnad-pa-middag/">engelholm.se/Omsorg-hjalp/Ny-i-Sverige/Sa-har-kan-du-hjalpa/Bjud-en-likasinnad-pa-middag/</a>'
+  url: https://app.invitationsdepartementet.se/signup/angelholm
+  desc: '<a href="https://app.invitationsdepartementet.se/signup/angelholm">För middagar anmäl dig här</a>'
   long: 12.863880999999992
   lat: 56.245748
   country: SE
