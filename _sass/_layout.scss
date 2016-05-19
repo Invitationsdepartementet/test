@@ -491,3 +491,56 @@
   line-height: 1.5em;
   font-size: 1.4em;
 }
+
+.presentations {
+  text-align: center;
+}
+
+.presentation {
+  display: inline-block;
+  width: 32%;
+  vertical-align: top;
+  text-align: left;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
+.presentation:first-child {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+.presentation:last-child {
+  padding-left: 10px;
+  padding-right: 0;
+}
+
+.presentation-name {
+  padding: 10px 0 0;
+  display: block;
+}
+
+.presentation-desc {
+  display: block;
+  font-size: 0.85em;
+  color: #666;
+}
+
+.presentation img {
+  max-width: 100%;
+  height: auto;
+}
+
+@media all and (max-width: 750px) {
+  .presentation {
+    display: block;
+    max-width: 100%;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+
+    img {
+      width: 100%;
+    }
+  }
+}
