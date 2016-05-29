@@ -89,6 +89,13 @@ Eksjö:
   lat: 57.664871
   country: SE
 
+Eskilstuna:
+  url: mailto:eskilstuna@invitationsdepartementet.se
+  desc: 'Maila <a href="mailto:eskilstuna@invitationsdepartementet.se">eskilstuna@invitationsdepartementet.se</a>.'
+  long: 16.5098
+  lat: 59.3712
+  country: SE
+
 Frankfurt:
   url: https://www.facebook.com/welcomedinnerfrankfurt
   desc: 'Visit <a href="https://www.facebook.com/welcomedinnerfrankfurt">facebook.com/welcomedinnerfrankfurt</a> to book a dinner.'
