@@ -97,8 +97,8 @@ Eksjö:
   country: SE
 
 Frankfurt:
-  url: https://www.facebook.com/welcomedinnerfrankfurt
-  desc: 'Visit <a href="https://www.facebook.com/welcomedinnerfrankfurt">facebook.com/welcomedinnerfrankfurt</a> to book a dinner.'
+  url: http://www.welcomedinner-frankfurt.de/
+  desc: 'Visit us at <a href="http://www.welcomedinner-frankfurt.de/">www.welcomedinner-frankfurt.de/</a> or <a href="https://www.facebook.com/welcomedinnerfrankfurt">read more on our Facebook page</a>.'
   long: 8.6821
   lat: 50.1109
   country: DE
