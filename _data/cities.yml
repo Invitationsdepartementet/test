@@ -424,6 +424,13 @@ Tierp:
   lat: 60.3458956
   country: SE
 
+Töreboda:
+  url: mailto:toreboda@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:toreboda@invitationsdepartementet.se">toreboda@invitationsdepartementet.se</a>.'
+  long: 14.1261
+  lat: 58.7055
+  country: SE
+
 Uddevalla:
   url: mailto:kurviga69@gmail.com
   desc: 'För middagar kontakta Helene på <a href="mailto:kurviga69@gmail.com">kurviga69@gmail.com</a>'
