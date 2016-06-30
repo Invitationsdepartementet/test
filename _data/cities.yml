@@ -312,6 +312,13 @@ Mariehamn:
   lat: 60.097094500000004
   country: SE
 
+Mariestad:
+  url: mailto:mariestad@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:mariestad@invitationsdepartementet.se">mariestad@invitationsdepartementet.se</a>.'
+  long: 13.8213
+  lat: 58.7101
+  country: SE
+
 Markdorf:
   url: mailto:Komm-essen@mgh-markdorf.de
   desc: 'For dinners get in touch via <a href="mailto:Komm-essen@mgh-markdorf.de">Komm-essen@mgh-markdorf.de</a> or look for Komm Essen on Facebook'
