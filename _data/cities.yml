@@ -208,6 +208,13 @@ Kalmar:
   lat: 56.6634447
   country: SE
 
+Karlsborg:
+  url: mailto:karlsborg@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:karlsborg@invitationsdepartementet.se">karlsborg@invitationsdepartementet.se</a>.'
+  long: 14.511842
+  lat: 58.529031
+  country: SE
+
 Karlstad:
   url: https://www.facebook.com/ikk2015/
   desc: 'För middagar kontakta Helena på <a href="mailto:karlstad@invitationsdepartementet.se">karlstad@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/ikk2015/">https://www.facebook.com/ikk2015/</a>'
