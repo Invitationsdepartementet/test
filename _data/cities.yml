@@ -208,6 +208,13 @@ Kalmar:
   lat: 56.6634447
   country: SE
 
+Karlsborg:
+  url: mailto:karlsborg@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:karlsborg@invitationsdepartementet.se">karlsborg@invitationsdepartementet.se</a>.'
+  long: 14.511842
+  lat: 58.529031
+  country: SE
+
 Karlstad:
   url: https://www.facebook.com/ikk2015/
   desc: 'För middagar kontakta Helena på <a href="mailto:karlstad@invitationsdepartementet.se">karlstad@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/ikk2015/">https://www.facebook.com/ikk2015/</a>'
@@ -310,6 +317,13 @@ Mariehamn:
   desc: 'För middagar anmäl dig på <a href="https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form">https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form</a>. Kontakt Siv och Effie på <a href="mailto:info@kompassen.ax">info@kompassen.ax</a>'
   long: 19.934833900000058
   lat: 60.097094500000004
+  country: SE
+
+Mariestad:
+  url: mailto:mariestad@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:mariestad@invitationsdepartementet.se">mariestad@invitationsdepartementet.se</a>.'
+  long: 13.8213
+  lat: 58.7101
   country: SE
 
 Markdorf:
@@ -422,6 +436,13 @@ Tierp:
   desc: 'För middagar kontakta Isabelle på <a href="mailto:tierp@invitationsdepartementet.se">tierp@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetTierp/">facebook.com/invitationsdepartementetTierp/</a>'
   long: 17.516906000000063
   lat: 60.3458956
+  country: SE
+
+Töreboda:
+  url: mailto:toreboda@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:toreboda@invitationsdepartementet.se">toreboda@invitationsdepartementet.se</a>.'
+  long: 14.1261
+  lat: 58.7055
   country: SE
 
 Uddevalla:
