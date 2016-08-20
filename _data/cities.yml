@@ -502,8 +502,8 @@ Värnamo:
   country: SE
 
 Västerås:
-  url: https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/
-  desc: 'För middagar kontakta Maria på <a href="mailto:invitationsdepartementet021@gmail.com">invitationsdepartementet021@gmail.com</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/">https://www.facebook.com/Invitationsdepartementet-Västerås-891480500886138/</a>'  
+  url: https://app.invitationsdepartementet.se/signup/vasteras
+  desc: 'Gå till <a href="https://app.invitationsdepartementet.se/signup/vasteras">app.invitationsdepartementet.se/signup/vasteras/</a> för middagar.'  
   long: 16.544809100000066
   lat: 59.60990049999998
   country: SE
