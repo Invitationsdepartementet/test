@@ -110,6 +110,13 @@ Eskilstuna:
   lat: 59.3712
   country: SE
 
+Fagersta:
+  url: mailto:fagersta@invitationsdepartementet.se
+  desc: 'För middagar maila <a href="mailto:fagersta@invitationsdepartementet.se">fagersta@invitationsdepartementet.se</a>'
+  long: 15.8166
+  lat: 59.9891
+  country: SE
+
 Frankfurt:
   url: http://www.welcomedinner-frankfurt.de/
   desc: 'Visit us at <a href="http://www.welcomedinner-frankfurt.de/">www.welcomedinner-frankfurt.de/</a> or <a href="https://www.facebook.com/welcomedinnerfrankfurt">read more on our Facebook page</a>.'
