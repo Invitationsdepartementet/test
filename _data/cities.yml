@@ -251,8 +251,8 @@ Köln:
   country: DE
 
 Linköping:
-  url: mailto:linkoping@redcross.se
-  desc: 'För middagar kontakta Sandra på middagsklubben <a href="mailto:linkoping@redcross.se">linkoping@redcross.se</a>'
+  url: mailto:middagsklubben.linkoping@redcross.se
+  desc: 'För middagar kontakta Sandra på middagsklubben <a href="mailto:middagsklubben.linkoping@redcross.se">middagsklubben.linkoping@redcross.se</a>'
   long: 15.621372699999938
   lat: 58.41080700000001
   country: SE
