@@ -47,6 +47,13 @@ Borås:
   lat: 57.72103500000001
   country: SE
 
+Braunschweig:
+  url: http://www.welcome-dinner-bs.de
+  desc: 'Visit <a href="http://www.welcome-dinner-bs.de">www.welcome-dinner-bs.de/</a> or <a href="https://www.facebook.com/WelcomeDinnerBraunschweig">see our Facebook page for more information</a>.'
+  long: 10.5268
+  lat: 52.2689
+  country: DE
+
 Bremen:
   url: http://www.welcome-dinner-bremen.de/
   desc: 'Visit <a href="http://www.welcome-dinner-bremen.de/">http://www.welcome-dinner-bremen.de/</a> or <a href="https://www.facebook.com/welcomedinnerbremen/">see our Facebook page for more information</a>.'
