@@ -75,6 +75,13 @@ Buchs:
   lat: 47.16554029999999
   country: CH
 
+Diepholz:
+  url: mailto:welcomedinnerdh@gmail.com
+  desc: 'For dinners get in touch via: <a href="mailto:welcomedinnerdh@gmail.com">welcomedinnerdh@gmail.com</a>.'
+  long: 8.3708
+  lat: 52.6056
+  country: DE
+
 Dornbirn:
   url: mailto:tanja.kuen@gmx.net
   desc: 'For dinners get in touch via: <a href="mailto:tanja.kuen@gmx.net">tanja.kuen@gmx.net/</a>'
