@@ -300,8 +300,8 @@ London:
   country: GB
 
 Lund:
-  url: https://www.facebook.com/invitationsdepartementetlund/
-  desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/lund">app.invitationsdepartementet.se/signup/lund</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetlund/">facebook.com/invitationsdepartementetlund/</a>'
+  url: https://app.invitationsdepartementet.se/signup/lund
+  desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/lund">app.invitationsdepartementet.se/signup/lund</a>.'
   long: 13.191007300000024
   lat: 55.7046601
   country: SE
