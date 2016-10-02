@@ -488,8 +488,8 @@ Ulm:
   country: DE
 
 Umeå:
-  url: mailto:umea@invitationsdepartementet.se
-  desc: 'För middagar kontakta Inger <a href="mailto:umea@invitationsdepartementet.se">umea@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetumea/">https://www.facebook.com/invitationsdepartementetumea/</a>'
+  url: https://app.invitationsdepartementet.se/signup/umea
+  desc: '<a href="http://app.invitationsdepartementet.se/signup/umea">Klicka här för att gå på middag i Umeå</a>'
   long: 20.263035400000035
   lat: 63.8258471
   country: SE
