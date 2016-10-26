@@ -187,6 +187,13 @@ Hannover:
   lat: 52.3758916
   country: DE
 
+Helsingborg:
+  url: mailto:helsingborg@invitationsdepartementet.se
+  desc: 'För middagar kontakta <a href="mailto:helsingborg@invitationsdepartementet.se">helsingborg@invitationsdepartementet.se</a>'
+  long: 12.69437
+  lat: 56.04673
+  country: SE
+
 Hyltebruk:
   url: https://app.invitationsdepartementet.se/signup/hyltebruk
   desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/hyltebruk">app.invitationsdepartementet.se/signup/hyltebruk/<a>. För frågor kontakta Pär: <a href="mailto:hyltebruk@invitationsdepartementet.eu">hyltebruk@invitationsdepartementet.eu</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethyltebruk">facebook.com/invitationsdepartementethyltebruk</a>'
