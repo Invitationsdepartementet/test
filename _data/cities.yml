@@ -397,8 +397,8 @@ Norrköping:
   country: SE
 
 Nynäshamn:
-  url: mailto:mikaela@vazquez.se
-  desc: 'För middagar kontakta Mikaela på <a href="mailto:mikaela@vazquez.se">mikaela@vazquez.se</a>.'
+  url: https://app.invitationsdepartementet.se/signup/nynashamn
+  desc: 'För middagar <a href="https://app.invitationsdepartementet.se/signup/nynashamn">anmäl dig här</a>.'
   long: 17.946528899999976
   lat: 58.90292600000001
   country: SE
