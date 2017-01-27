@@ -320,13 +320,6 @@ Lüneburg:
   lat: 53.2464214
   country: DE
 
-Luleå:
-  url: https://app.invitationsdepartementet.se/signup/lulea 
-  desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/lulea">invitationsdepartementet.se/signup/lulea</a>. För frågor kontakta Felicia och John på <a href="mailto:lulea@invitationsdepartementet.se">lulea@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/idlulea/">https://www.facebook.com/idlulea/</a>'
-  long: 22.156702600000017
-  lat: 65.584819
-  country: SE
-
 Lysekil:
   desc: 'För middagar kontakta Cheyenne på <a href="mailto:cheyenne@radiosmd.se">cheyenne@radiosmd.se</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/">facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/</a>'
   long: 11.435558000000015
