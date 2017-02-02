@@ -222,13 +222,6 @@ Jena:
   lat: 50.927054
   country: DE
 
-Jokkmokk:
-  url: mailto:jokkmokk@invitationsdepartementet.se
-  desc: 'För middagar kontakta Elina: <a href="mailto:jokkmokk@invitationsdepartementet.se">jokkmokk@invitationsdepartementet.se</a>'
-  long: 19.822920599999975
-  lat: 66.60696089999999
-  country: SE
-
 Jönköping:
   url: mailto:jonkoping@invitationsdepartementet.eu
   desc: 'För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.eu">jonkoping@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>'
@@ -292,13 +285,6 @@ Linköping:
   lat: 58.41080700000001
   country: SE
 
-Ljusnarsberg:
-  url: mailto:ljusnarsberg@invitationsdepartementet.se
-  desc: 'För middagar maila Karin på <a href="mailto:ljusnarsberg@invitationsdepartementet.se">ljusnarsberg@invitationsdepartementet.se</a>'
-  long: 14.87777940000001
-  lat: 59.97529340000001
-  country: SE
-
 London:
   url: mailto:sandyerrestad@gmail.com
   desc: 'Get in touch with <a href="mailto:sandyerrestad@gmail.com">sandyerrestad@gmail.com</a>'
@@ -319,12 +305,6 @@ Lüneburg:
   long: 10.411517900000035
   lat: 53.2464214
   country: DE
-
-Lysekil:
-  desc: 'För middagar kontakta Cheyenne på <a href="mailto:cheyenne@radiosmd.se">cheyenne@radiosmd.se</a>. Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/">facebook.com/Invitationsdepartementet-i-Lysekil-762172963886588/</a>'
-  long: 11.435558000000015
-  lat: 58.27557299999999
-  country: SE
 
 Mainz:
   url: http://welcomedinnermainz.blogspot.se
@@ -459,25 +439,11 @@ Stuttgart:
   lat: 48.7758459
   country: DE
 
-Tierp:
-  url: mailto:tierp@invitationsdepartementet.se
-  desc: 'För middagar kontakta Isabelle på <a href="mailto:tierp@invitationsdepartementet.se">tierp@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementetTierp/">facebook.com/invitationsdepartementetTierp/</a>'
-  long: 17.516906000000063
-  lat: 60.3458956
-  country: SE
-
 Töreboda:
   url: mailto:toreboda@invitationsdepartementet.se
   desc: 'För middagar kontakta oss på <a href="mailto:toreboda@invitationsdepartementet.se">toreboda@invitationsdepartementet.se</a>.'
   long: 14.1261
   lat: 58.7055
-  country: SE
-
-Uddevalla:
-  url: mailto:uddevalla@invitationsdepartementet.se
-  desc: 'För middagar kontakta oss på <a href="mailto:uddevalla@invitationsdepartementet.se">uddevalla@invitationsdepartementet.se</a>'
-  long: 11.935649000000012
-  lat: 58.3498003
   country: SE
 
 Ulm:
