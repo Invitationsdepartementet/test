@@ -194,6 +194,13 @@ Helsingborg:
   lat: 56.04673
   country: SE
 
+Hjo:
+  url: https://app.invitationsdepartementet.se/signup/hjo
+  desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/hjo">app.invitationsdepartementet.se/signup/hjo/<a>'
+  long: 14.2586145
+  lat: 58.3012888
+  country: SE
+
 Hyltebruk:
   url: https://app.invitationsdepartementet.se/signup/hyltebruk
   desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/hyltebruk">app.invitationsdepartementet.se/signup/hyltebruk/<a>. För frågor kontakta Pär: <a href="mailto:hyltebruk@invitationsdepartementet.eu">hyltebruk@invitationsdepartementet.eu</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethyltebruk">facebook.com/invitationsdepartementethyltebruk</a>'
@@ -234,13 +241,6 @@ Kalmar:
   desc: 'För middagar maila Björn på <a href="mailto:kalmar@invitationsdepartementet.se">kalmar@invitationsdepartementet.se</a>'
   long: 16.35677899999996
   lat: 56.6634447
-  country: SE
-
-Karlsborg:
-  url: mailto:karlsborg@invitationsdepartementet.se
-  desc: 'För middagar kontakta oss på <a href="mailto:karlsborg@invitationsdepartementet.se">karlsborg@invitationsdepartementet.se</a>.'
-  long: 14.511842
-  lat: 58.529031
   country: SE
 
 Karlstad:
@@ -383,13 +383,6 @@ Oslo:
   lat: 59.913868799999996
   country: NO
 
-Partille:
-  url: mailto:Sigbritt.Andreasson@partille.se
-  desc: 'För middagar kontakta <a href="mailto:Sigbritt.Andreasson@partille.se">Sigbritt.Andreasson@partille.se</a>'  
-  long: 12.1282196
-  lat: 57.7375169
-  country: SE
-
 Potsdam:
   url: http://www.einladungsinstitut-potsdam.de
   desc: 'For dinners get in touch via <a href="http://www.einladungsinstitut-potsdam.de/">http://www.einladungsinstitut-potsdam.de/</a>or by email at <a href="mailto:kontakt@einladungsinstitut-potsdam.de">kontakt@einladungsinstitut-potsdam.de</a>'
@@ -438,13 +431,6 @@ Stuttgart:
   long: 9.182932100000016
   lat: 48.7758459
   country: DE
-
-Töreboda:
-  url: mailto:toreboda@invitationsdepartementet.se
-  desc: 'För middagar kontakta oss på <a href="mailto:toreboda@invitationsdepartementet.se">toreboda@invitationsdepartementet.se</a>.'
-  long: 14.1261
-  lat: 58.7055
-  country: SE
 
 Ulm:
   url: mailto:einladung-zum-essen@web.de
