@@ -111,8 +111,8 @@ Edewecht:
   country: DE
 
 Eksjö:
-  url: mailto:eksjo@invitationsdepartementet.eu
-  desc: 'Maila <a href="mailto:eksjo@invitationsdepartementet.eu">eksjo@invitationsdepartementet.eu</a> eller <a href="https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts">besök oss på Facebook</a>'
+  url: mailto:eksjo@invitationsdepartementet.se
+  desc: 'Maila <a href="mailto:eksjo@invitationsdepartementet.se">eksjo@invitationsdepartementet.se</a> eller <a href="https://www.facebook.com/Invitationsdepartementet-i-Eksj%C3%B6-380177768803631/?fref=ts">besök oss på Facebook</a>'
   long: 14.972476999999998
   lat: 57.664871
   country: SE
@@ -223,8 +223,8 @@ Jena:
   country: DE
 
 Jönköping:
-  url: mailto:jonkoping@invitationsdepartementet.eu
-  desc: 'För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.eu">jonkoping@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>'
+  url: mailto:jonkoping@invitationsdepartementet.se
+  desc: 'För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.se">jonkoping@invitationsdepartementet.se</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>'
   long: 14.159317
   lat: 57.77817889999999
   country: SE
@@ -278,9 +278,16 @@ Köln:
   lat: 50.9354982
   country: DE
 
+Lilla Edet:
+  url: mailto:lillaedet@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:lillaedet@invitationsdepartementet.se">lillaedet@invitationsdepartementet.se</a>'
+  long: 12.1311
+  lat: 58.1307
+  country: SE
+
 Linköping:
-  url: mailto:middagsklubben.linkoping@redcross.se
-  desc: 'För middagar kontakta Sandra på middagsklubben <a href="mailto:middagsklubben.linkoping@redcross.se">middagsklubben.linkoping@redcross.se</a>'
+  url: mailto:linkoping@invitationsdepartementet.se
+  desc: 'För middagar kontakta Sandra på <a href="mailto:linkoping@invitationsdepartementet.se">linkoping@invitationsdepartementet.se</a>'
   long: 15.621372699999938
   lat: 58.41080700000001
   country: SE
@@ -419,10 +426,17 @@ Skivarp:
   country: SE
 
 Sollefteå:
-  url: mailto:stina.naslund@abf.se
-  desc: 'Kontakta Stina <a href="mailto:stina.naslund@abf.se">stina.naslund@abf.se</a>'
+  url: mailto:solleftea@invitationsdepartementet.se
+  desc: 'Kontakta Stina på <a href="solleftea@invitationsdepartementet.se">solleftea@invitationsdepartementet.se</a>'
   long: 17.2794342
   lat: 63.1644311
+  country: SE
+
+Stenungsund/Tjörn:
+  url: https://app.invitationsdepartementet.se/signup/stenungsund
+  desc: '<a href="https://app.invitationsdepartementet.se/signup/stenungsund">Klicka här för att gå på middag i Stenungsund</a>'
+  long: 11.816667
+  lat: 58.083333
   country: SE
 
 Stockholm:
@@ -438,6 +452,13 @@ Stuttgart:
   long: 9.182932100000016
   lat: 48.7758459
   country: DE
+
+Tjörn/Stenungsund:
+  url: https://app.invitationsdepartementet.se/signup/stenungsund
+  desc: '<a href="https://app.invitationsdepartementet.se/signup/stenungsund">Klicka här för att gå på middag i Tjörn</a>'
+  long: 11.633333
+  lat: 58.016667
+  country: SE
 
 Töreboda:
   url: mailto:toreboda@invitationsdepartementet.se
