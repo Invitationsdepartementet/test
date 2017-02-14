@@ -45,4 +45,11 @@ $(function() {
     $destinationButton.attr("href", selected.attr("data-url"));
   }
 
+  var _mfq = _mfq || [];
+  (function() {
+    var mf = document.createElement("script");
+    mf.type = "text/javascript"; mf.async = true;
+    mf.src = "//cdn.mouseflow.com/projects/e8a4788a-9277-40ca-84ec-b6c9a31f3724.js";
+    document.getElementsByTagName("head")[0].appendChild(mf);
+  })();
 });
