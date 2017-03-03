@@ -208,13 +208,6 @@ Hyltebruk:
   lat: 57.0014849
   country: SE
 
-Härnösand:
-  url: 'https://docs.google.com/forms/d/1_la-NlAGrvrpyZIl4zrUeSO8hihkj8atNZaj-8QNtu0/viewform?c=0&w=1'
-  desc: 'För middagar: <a href="https://invitharnosand.wordpress.com/">https://invitharnosand.wordpress.com/</a> eller kontakta Monica, Stefan, Kärstin på <a href="mailto:harnosand@invitationsdepartementet.eu">harnosand@invitationsdepartementet.eu</a> Facebook: <a href="https://www.facebook.com/invitationharnosand/">https://www.facebook.com/invitationharnosand/</a>'
-  long: 17.9406738
-  lat: 62.63156010000001
-  country: SE
-
 Höör:
   url: https://www.facebook.com/invitationsdepartementethoor/
   desc: 'För middagar kontakta  Lisa på <a href="mailto:hoor@invitationsdepartementet.se">hoor@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethoor/">https://www.facebook.com/invitationsdepartementethoor/</a>'
@@ -283,13 +276,6 @@ Lilla Edet:
   desc: 'För middagar kontakta oss på <a href="mailto:lillaedet@invitationsdepartementet.se">lillaedet@invitationsdepartementet.se</a>'
   long: 12.1311
   lat: 58.1307
-  country: SE
-
-Linköping:
-  url: mailto:linkoping@invitationsdepartementet.se
-  desc: 'För middagar kontakta Sandra på <a href="mailto:linkoping@invitationsdepartementet.se">linkoping@invitationsdepartementet.se</a>'
-  long: 15.621372699999938
-  lat: 58.41080700000001
   country: SE
 
 London:
@@ -412,8 +398,8 @@ Skellefteå:
   country: SE
 
 Skivarp:
-  url: mailto:info@ueb.nu
-  desc: 'För middagar kontakta Johan på <a href="mailto:info@ueb.nu">info@ueb.nu</a>'
+  url: mailto:skivarp@invitationsdepartementet.se
+  desc: 'För middagar kontakta Johan på <a href="mailto:skivarp@invitationsdepartementet.se">skivarp@invitationsdepartementet.se</a>'
   long: 13.570973699999968
   lat: 55.4227644
   country: SE
@@ -507,6 +493,13 @@ Västerås:
   desc: 'Gå till <a href="https://app.invitationsdepartementet.se/signup/vasteras">app.invitationsdepartementet.se/signup/vasteras/</a> för middagar.'  
   long: 16.544809100000066
   lat: 59.60990049999998
+  country: SE
+
+Växjö:
+  url: mailto:vaxjo@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:vaxjo@invitationsdepartementet.se">vaxjo@invitationsdepartementet.se</a>.'
+  long: 14.809167
+  lat: 56.878333
   country: SE
 
 Winsen:
