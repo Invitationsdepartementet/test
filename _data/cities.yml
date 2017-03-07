@@ -313,13 +313,6 @@ Malmö:
   lat: 55.604981
   country: SE
 
-Mariehamn:
-  url: 'https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form'
-  desc: 'För middagar anmäl dig på <a href="https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form">https://docs.google.com/forms/d/1NGoSK0LGgjxg1WMPBJortbG7U55U215FCx_Royi6HXI/viewform?c=0&w=1&usp=send_form</a>. Kontakt Siv och Effie på <a href="mailto:info@kompassen.ax">info@kompassen.ax</a>'
-  long: 19.934833900000058
-  lat: 60.097094500000004
-  country: SE
-
 Mariestad:
   url: mailto:mariestad@invitationsdepartementet.se
   desc: 'För middagar kontakta oss på <a href="mailto:mariestad@invitationsdepartementet.se">mariestad@invitationsdepartementet.se</a>.'
