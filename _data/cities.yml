@@ -474,13 +474,6 @@ Vänersborg:
   lat: 58.3797
   country: SE
 
-Värnamo:
-  url: mailto:varnamo@invitationsdepartementet.se
-  desc: 'För middagar kontakta Dan på <a href="mailto:varnamo@invitationsdepartementet.se">varnamo@invitationsdepartementet.se</a>'
-  long: 14.047821399999975
-  lat: 57.1831605
-  country: SE
-
 Västerås:
   url: https://app.invitationsdepartementet.se/signup/vasteras
   desc: 'Gå till <a href="https://app.invitationsdepartementet.se/signup/vasteras">app.invitationsdepartementet.se/signup/vasteras/</a> för middagar.'  
