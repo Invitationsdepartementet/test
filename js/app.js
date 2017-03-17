@@ -45,11 +45,10 @@ $(function() {
     $destinationButton.attr("href", selected.attr("data-url"));
   }
 
-  var _mfq = _mfq || [];
-  (function() {
-    var mf = document.createElement("script");
-    mf.type = "text/javascript"; mf.async = true;
-    mf.src = "//cdn.mouseflow.com/projects/e8a4788a-9277-40ca-84ec-b6c9a31f3724.js";
-    document.getElementsByTagName("head")[0].appendChild(mf);
-  })();
+  // Heatmap
+  (function(h,e,a,t,m,p) {
+    m=e.createElement(a);m.async=!0;m.src=t;
+    p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
+  })(window,document,'script','https://u.heatmap.it/log.js');
+
 });
