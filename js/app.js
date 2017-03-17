@@ -46,6 +46,10 @@ $(function() {
   }
 
   // Heatmap
+  heatmap_ext = {
+    altShiftH: false
+  };
+
   (function(h,e,a,t,m,p) {
     m=e.createElement(a);m.async=!0;m.src=t;
     p=e.getElementsByTagName(a)[0];p.parentNode.insertBefore(m,p);
