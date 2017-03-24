@@ -20,8 +20,8 @@ Basel:
   country: CH
 
 Båstad:
-  url: mailto:bastad@invitationsdepartementet.se 
-  desc: 'För middagar maila <a href="mailto:bastad@invitationsdepartementet.se ">bastad@invitationsdepartementet.se</a>'
+  url: https://app.invitationsdepartementet.se/signup/bastad
+  desc: 'För middagar anmäl på <a href="https://app.invitationsdepartementet.se/signup/bastad">app.invitationsdepartementet.se/signup/bastad</a>'
   long: 12.8477
   lat: 56.4274
   country: SE
