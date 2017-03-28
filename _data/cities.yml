@@ -117,13 +117,6 @@ Eksjö:
   lat: 57.664871
   country: SE
 
-Eskilstuna:
-  url: mailto:eskilstuna@invitationsdepartementet.se
-  desc: 'Maila <a href="mailto:eskilstuna@invitationsdepartementet.se">eskilstuna@invitationsdepartementet.se</a>.'
-  long: 16.5098
-  lat: 59.3712
-  country: SE
-
 Fagersta:
   url: http://app.invitationsdepartementet.se/signup/fagersta
   desc: 'För middagar <a href="http://app.invitationsdepartementet.se/signup/fagersta">anmäl dig här</a>.'
@@ -201,13 +194,6 @@ Hjo:
   lat: 58.3012888
   country: SE
 
-Hyltebruk:
-  url: https://app.invitationsdepartementet.se/signup/hyltebruk
-  desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/hyltebruk">app.invitationsdepartementet.se/signup/hyltebruk/<a>. För frågor kontakta Pär: <a href="mailto:hyltebruk@invitationsdepartementet.eu">hyltebruk@invitationsdepartementet.eu</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethyltebruk">facebook.com/invitationsdepartementethyltebruk</a>'
-  long: 13.2433319
-  lat: 57.0014849
-  country: SE
-
 Höör:
   url: https://www.facebook.com/invitationsdepartementethoor/
   desc: 'För middagar kontakta  Lisa på <a href="mailto:hoor@invitationsdepartementet.se">hoor@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/invitationsdepartementethoor/">https://www.facebook.com/invitationsdepartementethoor/</a>'
@@ -256,13 +242,6 @@ Kirchheim unter Teck:
   long: 9.443753300000026
   lat: 48.6444579
   country: DE
-
-Kramfors:
-  url: https://app.invitationsdepartementet.se/signup/kramfors
-  desc: 'Anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/kramfors">app.invitationsdepartementet.se/signup/kramfors</a> eller kontakta Stefan på <a href="mailto:kramfors@invitationsdepartementet.se">kramfors@invitationsdepartementet.se</a>'
-  long: 17.777390200000013
-  lat: 62.93207249999999
-  country: SE
 
 Köln:
   url: http://welcome-dinner.koeln/de
@@ -466,13 +445,6 @@ Vienna:
   long: 16.377182
   lat: 48.2237577
   country: AT
-
-Vänersborg:
-  url: http://app.invitationsdepartementet.se/signup/vanersborg
-  desc: 'Gå till <a href="http://app.invitationsdepartementet.se/signup/vanersborg">http://app.invitationsdepartementet.se/signup/vanersborg</a> för middagar.'
-  long: 12.3248
-  lat: 58.3797
-  country: SE
 
 Västerås:
   url: https://app.invitationsdepartementet.se/signup/vasteras
