@@ -145,13 +145,6 @@ Ghent:
   lat: 51.0543422
   country: BE
 
-Gävle:
-  url: mailto:gavle@invitationsdepartementet.se
-  desc: 'För middagar kontakta Lisa på <a href="mailto:gavle@invitationsdepartementet.se">gavle@invitationsdepartementet.se</a>'
-  long: 17.141272599999983
-  lat: 60.6748796
-  country: SE
-
 Göteborg:
   url: https://app.invitationsdepartementet.se/signup/goteborg
   desc: 'Anmäl dig <a href="https://app.invitationsdepartementet.se/signup/goteborg">här</a>eller kontakta oss på <a href="mailto:goteborg@invitationsdepartementet.se">goteborg@invitationsdepartementet.se</a>'
@@ -395,6 +388,13 @@ Tjörn/Stenungsund:
   desc: '<a href="https://app.invitationsdepartementet.se/signup/stenungsund">Klicka här för att gå på middag i Tjörn</a>'
   long: 11.633333
   lat: 58.016667
+  country: SE
+
+Trollhättan:
+  url: mailto:trollhattan@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:trollhattan@invitationsdepartementet.se">trollhattan@invitationsdepartementet.se</a>.'
+  long: 12.28864
+  lat: 58.28365
   country: SE
 
 Ulm:
