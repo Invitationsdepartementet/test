@@ -194,6 +194,13 @@ Jena:
   lat: 50.927054
   country: DE
 
+Jönköping:
+  url: mailto:jonkoping@invitationsdepartementet.se
+  desc: 'För middagar kontakta Carl på <a href="mailto:jonkoping@invitationsdepartementet.se">jonkoping@invitationsdepartementet.se</a> Facebook: <a href="https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/?fref=ts">https://www.facebook.com/Invitationsdepartementet-J%C3%B6nk%C3%B6ping-1571593743064320/</a>'
+  long: 14.159317
+  lat: 57.77817889999999
+  country: SE
+
 Karlstad:
   url: https://www.facebook.com/ikk2015/
   desc: 'För middagar kontakta Helena på <a href="mailto:karlstad@invitationsdepartementet.se">karlstad@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/ikk2015/">https://www.facebook.com/ikk2015/</a>'
