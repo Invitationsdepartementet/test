@@ -425,6 +425,13 @@ Vienna:
   lat: 48.2237577
   country: AT
 
+Vänersborg:
+  url: https://app.invitationsdepartementet.se/signup/vanersborg
+  desc: 'Gå till <a href="https://app.invitationsdepartementet.se/signup/vanersborg">https://app.invitationsdepartementet.se/signup/vanersborg</a> för middagar.'
+  long: 12.3248
+  lat: 58.3797
+  country: SE
+
 Västerås:
   url: https://app.invitationsdepartementet.se/signup/vasteras
   desc: 'Gå till <a href="https://app.invitationsdepartementet.se/signup/vasteras">app.invitationsdepartementet.se/signup/vasteras/</a> för middagar.'  
