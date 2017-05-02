@@ -383,6 +383,13 @@ Stuttgart:
   lat: 48.7758459
   country: DE
 
+Sölvesborg:
+  url: mailto:solvesborg@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:solvesborg@invitationsdepartementet.se">solvesborg@invitationsdepartementet.se</a>.'
+  long: 14.651719200000002
+  lat: 56.0719655
+  country: SE
+
 Tjörn/Stenungsund:
   url: https://app.invitationsdepartementet.se/signup/stenungsund
   desc: '<a href="https://app.invitationsdepartementet.se/signup/stenungsund">Klicka här för att gå på middag i Tjörn</a>'
