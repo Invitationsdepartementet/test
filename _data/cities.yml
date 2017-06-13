@@ -390,6 +390,13 @@ Sölvesborg:
   lat: 56.0719655
   country: SE
 
+Tierp:
+  url: mailto:tierp@invitationsdepartementet.se
+  desc: 'För middagar kontakta oss på <a href="mailto:tierp@invitationsdepartementet.se">tierp@invitationsdepartementet.se</a>.'
+  long: 17.5205086
+  lat: 60.3475866
+  country: SE
+
 Tjörn/Stenungsund:
   url: https://app.invitationsdepartementet.se/signup/stenungsund
   desc: '<a href="https://app.invitationsdepartementet.se/signup/stenungsund">Klicka här för att gå på middag i Tjörn</a>'
