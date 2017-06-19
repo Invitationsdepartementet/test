@@ -404,13 +404,6 @@ Tjörn/Stenungsund:
   lat: 58.016667
   country: SE
 
-Trollhättan:
-  url: mailto:trollhattan@invitationsdepartementet.se
-  desc: 'För middagar kontakta oss på <a href="mailto:trollhattan@invitationsdepartementet.se">trollhattan@invitationsdepartementet.se</a>.'
-  long: 12.28864
-  lat: 58.28365
-  country: SE
-
 Ulm:
   url: mailto:einladung-zum-essen@web.de
   desc: 'For dinners get in touch via <a href="mailto:einladung-zum-essen@web.de">einladung-zum-essen@web.de</a>'  
