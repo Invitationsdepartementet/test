@@ -96,13 +96,6 @@ Dresden:
   lat: 51.0504088
   country: DE
 
-Düsseldorf:
-  url: http://www.welcome-dinner-duesseldorf.de/
-  desc: 'For dinners email <a href="mailto:hi@welcome-dinner-duesseldorf.de">hi@welcome-dinner-duesseldorf.de</a>. Facebook: <a href="www.facebook.com/welcomedinnerduesseldorf">facebook.com/welcomedinnerduesseldorf</a>'
-  long: 6.773455600000034
-  lat: 51.2277411
-  country: DE
-
 Edewecht:
   url: http://welcome-dinner-edewecht.de
   desc: 'For dinners sign up at <a href="www.welcome-dinner-edewecht.de">www.welcome-dinner-edewecht.de</a>. <br>Facebook: <a href="https://www.facebook.com/welcomedinneredewecht">https://www.facebook.com/welcomedinneredewecht</a>'
