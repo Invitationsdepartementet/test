@@ -194,6 +194,13 @@ Jönköping:
   lat: 57.77817889999999
   country: SE
 
+Kalmar:
+  url: https://app.invitationsdepartementet.se/signup/kalmar
+  desc: 'För middagar anmäl dig på <a href="https://app.invitationsdepartementet.se/signup/kalmar">app.invitationsdepartementet.se/signup/kalmar</a>'
+  long: 16.3567791
+  lat: 56.6634447
+  country: SE
+
 Karlstad:
   url: https://www.facebook.com/ikk2015/
   desc: 'För middagar kontakta Helena på <a href="mailto:karlstad@invitationsdepartementet.se">karlstad@invitationsdepartementet.se</a>. Facebook: <a href="https://www.facebook.com/ikk2015/">https://www.facebook.com/ikk2015/</a>'
