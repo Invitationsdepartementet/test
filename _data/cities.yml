@@ -480,10 +480,3 @@ Zürich:
   long: 15.2222443
   lat: 59.27570479999999
   country: SE
-
-Östersund:
-  url: mailto:ostersund@invitationsdepartementet.se
-  desc: 'För middagar kontakta Jonna på <a href="mailto:ostersund@invitationsdepartementet.se">ostersund@invitationsdepartementet.se</a>'
-  long: 14.63606809999999
-  lat: 63.1766832
-  country: SE
