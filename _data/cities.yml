@@ -285,13 +285,6 @@ Markdorf:
   lat: 47.710685600000005  
   country: DE
 
-Munkfors:
-  url: mailto:munkfors@invitationsdepartementet.se
-  desc: 'För middagar kontakta Samina och Sara på <a href="mailto:munkfors@invitationsdepartementet.se">munkfors@invitationsdepartementet.se</a>.<br> Facebook: <a href="https://www.facebook.com/munkforsinvitationsdepartment/">facebook.com/munkforsinvitationsdepartment/</a>'
-  long: 13.531723
-  lat: 59.8354573
-  country: SE
-
 München:
   url: http://abendesser-connection.de
   desc: 'Get in touch via: <a href="http://abendesser-connection.de">http://abendesser-connection.de</a>'
