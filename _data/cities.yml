@@ -467,9 +467,3 @@ Zürich:
   lat: 56.245748
   country: SE
 
-Örebro:
-  url: https://app.invitationsdepartementet.se/signup/orebro
-  desc: 'För middagar anmäl: <a href="https://app.invitationsdepartementet.se/signup/orebro">https://app.invitationsdepartementet.se/signup/orebro</a> Facebook: <a href="https://www.facebook.com/invitationorebero/">https://www.facebook.com/invitationorebero/</a>'  
-  long: 15.2222443
-  lat: 59.27570479999999
-  country: SE
