@@ -9,7 +9,7 @@
 title: Invitationsdepartementet
 email: ebba@invitationsdepartementet.se
 description: "Äta mat på kvällen och prata svenska."
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/test" # the subpath of your site, e.g. /blog
 url: "http://test.invitationsdepartementet.se"
 pagesurl: http://invitationsdepartementet.github.io
 twitter: https://twitter.com/invitationsdept
