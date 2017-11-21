@@ -1,8 +1,8 @@
 <div class="destination-wrapper">
   <label for="destination" class="destination-label">Jag bor i</label>
 
-  <select id="destination" class="js-destination-dropdown destination-dropdown">
-    <optgroup class="js-cities-group" label="Aktiva städer">
+  <select id="destination" class="destination-dropdown">
+    <optgroup label="Aktiva städer">
       {% for cityhash in site.data.cities %}{% if cityhash[1].country == "SE" %}
         {% assign cityData = cityhash[1] %}
         {% assign cityName = cityhash[0] %}
@@ -17,4 +17,4 @@
   </select>
 </div>
 
-<a href="{{ site.url }}/signup" class="js-go-to-dinner button button-primary">Gå med idag</a>
+<a href="{{ site.url }}/signup" class="button button-primary">Gå med idag</a>
