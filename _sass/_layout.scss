@@ -232,7 +232,7 @@
   color: #666;
 }
 
-.destination-dropdown {
+.destination-input {
   border: 0;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -241,7 +241,6 @@
   font-size: inherit;
   cursor: pointer;
   border-radius: inherit;
-  background: #fff url(/images/arrow-down.png) no-repeat 90% center/8px 6px;
 
   &::-ms-expand { /* For IE 11, hide arrow */
     display: none;

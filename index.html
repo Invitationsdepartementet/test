@@ -20,8 +20,9 @@ layout: default
       <img src="/images/slogan.png" alt="Äta mat på kvällen och prata svenska" class="page-header-image-home" height="258" width="700">
 
       <div class="section-top-controls">
-        <div>
-          {% include destination-dropdown.html %}
+        <div class="destination-wrapper">
+          <label for="destination" class="destination-label">Jag bor i</label>
+          <input type="text" class="destination-input destination-dropdown" name="postal_code" placeholder="12345">
         </div>
 
         <a href="{{ site.vimeourl }}" class="button-play-movie js-button-play-movie"></a>
