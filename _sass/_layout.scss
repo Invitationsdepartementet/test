@@ -565,6 +565,12 @@
   box-sizing: border-box;
 }
 
+.how-desc {
+  max-width: 600px;
+  text-align: center;
+  margin: auto;
+}
+
 @media all and (max-width: 750px) {
   .presentation {
     display: block;
