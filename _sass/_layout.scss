@@ -557,6 +557,14 @@
   height: auto;
 }
 
+.how-presentation {
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  padding: 5px;
+  box-sizing: border-box;
+}
+
 @media all and (max-width: 750px) {
   .presentation {
     display: block;
