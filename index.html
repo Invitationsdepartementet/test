@@ -24,14 +24,16 @@ layout: default
       <img src="/images/slogan.png" alt="Äta mat på kvällen och prata svenska" class="page-header-image-home" height="258" width="700">
 
       <div class="section-top-controls">
-        <div>
-          <div class="destination-wrapper">
-            <label for="destination" class="destination-label">Mitt postnummer är</label>
-            <input type="text" size="10" placeholder="xxxxx" class="destination-input destination-dropdown" name="postal_code">
-          </div>
+        <form method="get" action="{{ site.url }}">
+          <div>
+            <div class="destination-wrapper">
+              <label for="destination" class="destination-label">Mitt postnummer är</label>
+              <input type="text" size="10" placeholder="xxxxx" class="destination-input destination-dropdown" name="postal_code">
+            </div>
 
-          <a href="{{ site.url }}/signup" class="button button-primary">Gå med idag</a>
-        </div>
+            <button type="submit" class="button button-primary">Gå med idag</button>
+          </div>
+        </form>
       </div>
 
       <div class="top-quotes">
